@@ -1,0 +1,454 @@
+{
+  "day_types": [
+    {
+      "type": "平日",
+      "avg_price": 47961.0,
+      "avg_price_index": 96.13,
+      "avg_occupancy": 0.5454,
+      "avg_rooms_sold": 82.5,
+      "records": 3370
+    },
+    {
+      "type": "週末",
+      "avg_price": 50659.0,
+      "avg_price_index": 98.82,
+      "avg_occupancy": 0.5663,
+      "avg_rooms_sold": 85.6,
+      "records": 1316
+    },
+    {
+      "type": "國定假日",
+      "avg_price": 9271.0,
+      "avg_price_index": 105.32,
+      "avg_occupancy": 0.647,
+      "avg_rooms_sold": 99.0,
+      "records": 429
+    }
+  ],
+  "daily_trend": [
+    {
+      "date_str": "2026-10-01",
+      "avg_price": 45719.0,
+      "avg_price_index": 97.32,
+      "avg_occupancy": 0.5437,
+      "total_sold": 13651,
+      "total_unsold": 11058,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-02",
+      "avg_price": 44997.0,
+      "avg_price_index": 95.79,
+      "avg_occupancy": 0.5538,
+      "total_sold": 13814,
+      "total_unsold": 10895,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-03",
+      "avg_price": 47556.0,
+      "avg_price_index": 99.52,
+      "avg_occupancy": 0.5697,
+      "total_sold": 14244,
+      "total_unsold": 10465,
+      "is_weekend": 1,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-04",
+      "avg_price": 43882.0,
+      "avg_price_index": 98.17,
+      "avg_occupancy": 0.5719,
+      "total_sold": 14229,
+      "total_unsold": 10480,
+      "is_weekend": 1,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-05",
+      "avg_price": 45001.0,
+      "avg_price_index": 96.34,
+      "avg_occupancy": 0.5529,
+      "total_sold": 13937,
+      "total_unsold": 10772,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-06",
+      "avg_price": 42876.0,
+      "avg_price_index": 96.49,
+      "avg_occupancy": 0.5516,
+      "total_sold": 13692,
+      "total_unsold": 11017,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-07",
+      "avg_price": 44084.0,
+      "avg_price_index": 96.02,
+      "avg_occupancy": 0.5507,
+      "total_sold": 13744,
+      "total_unsold": 10965,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-08",
+      "avg_price": 46828.0,
+      "avg_price_index": 96.23,
+      "avg_occupancy": 0.5554,
+      "total_sold": 13802,
+      "total_unsold": 10907,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-09",
+      "avg_price": 44467.0,
+      "avg_price_index": 98.81,
+      "avg_occupancy": 0.5873,
+      "total_sold": 14477,
+      "total_unsold": 10232,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-10",
+      "avg_price": 46935.0,
+      "avg_price_index": 104.15,
+      "avg_occupancy": 0.6109,
+      "total_sold": 15277,
+      "total_unsold": 9432,
+      "is_weekend": 1,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-11",
+      "avg_price": 47246.0,
+      "avg_price_index": 99.08,
+      "avg_occupancy": 0.5679,
+      "total_sold": 14106,
+      "total_unsold": 10603,
+      "is_weekend": 1,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-12",
+      "avg_price": 44095.0,
+      "avg_price_index": 97.06,
+      "avg_occupancy": 0.5531,
+      "total_sold": 13926,
+      "total_unsold": 10783,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-13",
+      "avg_price": 46677.0,
+      "avg_price_index": 96.78,
+      "avg_occupancy": 0.5374,
+      "total_sold": 13415,
+      "total_unsold": 11294,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-14",
+      "avg_price": 44046.0,
+      "avg_price_index": 96.99,
+      "avg_occupancy": 0.5525,
+      "total_sold": 13981,
+      "total_unsold": 10728,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-15",
+      "avg_price": 44626.0,
+      "avg_price_index": 96.39,
+      "avg_occupancy": 0.5452,
+      "total_sold": 13621,
+      "total_unsold": 11088,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-16",
+      "avg_price": 44828.0,
+      "avg_price_index": 96.06,
+      "avg_occupancy": 0.54,
+      "total_sold": 13468,
+      "total_unsold": 11241,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-17",
+      "avg_price": 45343.0,
+      "avg_price_index": 97.94,
+      "avg_occupancy": 0.5706,
+      "total_sold": 14319,
+      "total_unsold": 10390,
+      "is_weekend": 1,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-18",
+      "avg_price": 46159.0,
+      "avg_price_index": 99.1,
+      "avg_occupancy": 0.5694,
+      "total_sold": 14167,
+      "total_unsold": 10542,
+      "is_weekend": 1,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-19",
+      "avg_price": 45336.0,
+      "avg_price_index": 96.27,
+      "avg_occupancy": 0.5465,
+      "total_sold": 13713,
+      "total_unsold": 10996,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-20",
+      "avg_price": 47306.0,
+      "avg_price_index": 96.02,
+      "avg_occupancy": 0.5445,
+      "total_sold": 13638,
+      "total_unsold": 11071,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-21",
+      "avg_price": 46266.0,
+      "avg_price_index": 95.63,
+      "avg_occupancy": 0.5444,
+      "total_sold": 13563,
+      "total_unsold": 11146,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-22",
+      "avg_price": 47227.0,
+      "avg_price_index": 96.64,
+      "avg_occupancy": 0.549,
+      "total_sold": 13774,
+      "total_unsold": 10935,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-23",
+      "avg_price": 47316.0,
+      "avg_price_index": 97.3,
+      "avg_occupancy": 0.5537,
+      "total_sold": 13886,
+      "total_unsold": 10823,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-24",
+      "avg_price": 48236.0,
+      "avg_price_index": 98.67,
+      "avg_occupancy": 0.5617,
+      "total_sold": 13996,
+      "total_unsold": 10713,
+      "is_weekend": 1,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-25",
+      "avg_price": 44295.0,
+      "avg_price_index": 102.85,
+      "avg_occupancy": 0.6234,
+      "total_sold": 15517,
+      "total_unsold": 9192,
+      "is_weekend": 1,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-26",
+      "avg_price": 45540.0,
+      "avg_price_index": 100.21,
+      "avg_occupancy": 0.5846,
+      "total_sold": 14618,
+      "total_unsold": 10091,
+      "is_weekend": 0,
+      "is_holiday": 1
+    },
+    {
+      "date_str": "2026-10-27",
+      "avg_price": 45223.0,
+      "avg_price_index": 96.53,
+      "avg_occupancy": 0.556,
+      "total_sold": 14029,
+      "total_unsold": 10680,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-28",
+      "avg_price": 45047.0,
+      "avg_price_index": 96.3,
+      "avg_occupancy": 0.5385,
+      "total_sold": 13462,
+      "total_unsold": 11247,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-29",
+      "avg_price": 43762.0,
+      "avg_price_index": 96.52,
+      "avg_occupancy": 0.5443,
+      "total_sold": 13586,
+      "total_unsold": 11123,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-30",
+      "avg_price": 43934.0,
+      "avg_price_index": 95.36,
+      "avg_occupancy": 0.5463,
+      "total_sold": 13599,
+      "total_unsold": 11110,
+      "is_weekend": 0,
+      "is_holiday": 0
+    },
+    {
+      "date_str": "2026-10-31",
+      "avg_price": 42869.0,
+      "avg_price_index": 98.9,
+      "avg_occupancy": 0.5607,
+      "total_sold": 13959,
+      "total_unsold": 10750,
+      "is_weekend": 1,
+      "is_holiday": 0
+    }
+  ],
+  "revenue_efficiency": [
+    {
+      "type": "平日",
+      "avg_revenue_per_room": 26340.0,
+      "avg_daily_revenue": 4254875.0
+    },
+    {
+      "type": "週末",
+      "avg_revenue_per_room": 28382.0,
+      "avg_daily_revenue": 4611192.0
+    },
+    {
+      "type": "國定假日",
+      "avg_revenue_per_room": 5378.0,
+      "avg_daily_revenue": 845191.0
+    }
+  ],
+  "holiday_names": [
+    {
+      "date_str": "2026-10-01",
+      "country": "中國大陸",
+      "holiday_name": "National Day"
+    },
+    {
+      "date_str": "2026-10-01",
+      "country": "香港",
+      "holiday_name": "National Day"
+    },
+    {
+      "date_str": "2026-10-02",
+      "country": "中國大陸",
+      "holiday_name": "National Day"
+    },
+    {
+      "date_str": "2026-10-03",
+      "country": "中國大陸",
+      "holiday_name": "National Day"
+    },
+    {
+      "date_str": "2026-10-03",
+      "country": "韓國",
+      "holiday_name": "National Foundation Day"
+    },
+    {
+      "date_str": "2026-10-05",
+      "country": "中國大陸",
+      "holiday_name": "National Day (observed)"
+    },
+    {
+      "date_str": "2026-10-05",
+      "country": "韓國",
+      "holiday_name": "Alternative holiday for National Foundation Day"
+    },
+    {
+      "date_str": "2026-10-06",
+      "country": "中國大陸",
+      "holiday_name": "Day off (substituted from 09/20/2026)"
+    },
+    {
+      "date_str": "2026-10-07",
+      "country": "中國大陸",
+      "holiday_name": "Day off (substituted from 10/10/2026)"
+    },
+    {
+      "date_str": "2026-10-09",
+      "country": "台灣",
+      "holiday_name": "National Day (observed)"
+    },
+    {
+      "date_str": "2026-10-09",
+      "country": "韓國",
+      "holiday_name": "Hangul Day"
+    },
+    {
+      "date_str": "2026-10-10",
+      "country": "台灣",
+      "holiday_name": "National Day"
+    },
+    {
+      "date_str": "2026-10-12",
+      "country": "日本",
+      "holiday_name": "Sports Day"
+    },
+    {
+      "date_str": "2026-10-13",
+      "country": "泰國",
+      "holiday_name": "HM King Bhumibol Adulyadej Memorial Day"
+    },
+    {
+      "date_str": "2026-10-18",
+      "country": "香港",
+      "holiday_name": "Double Ninth Festival"
+    },
+    {
+      "date_str": "2026-10-19",
+      "country": "香港",
+      "holiday_name": "Double Ninth Festival (observed)"
+    },
+    {
+      "date_str": "2026-10-23",
+      "country": "泰國",
+      "holiday_name": "HM King Chulalongkorn Memorial Day"
+    },
+    {
+      "date_str": "2026-10-25",
+      "country": "台灣",
+      "holiday_name": "Taiwan Restoration and Guningtou Victory Memorial Day"
+    },
+    {
+      "date_str": "2026-10-26",
+      "country": "台灣",
+      "holiday_name": "Taiwan Restoration and Guningtou Victory Memorial Day (observed)"
+    }
+  ]
+}

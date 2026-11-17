@@ -1,0 +1,955 @@
+{
+  "size_groups": [
+    {
+      "size_group": "中型",
+      "avg_total_rooms": 129.5,
+      "avg_rooms_sold": 72.7,
+      "avg_unsold": 56.9,
+      "avg_occupancy": 0.5567,
+      "avg_revenue": 2396745.0,
+      "hotels": 97
+    },
+    {
+      "size_group": "大型",
+      "avg_total_rooms": 223.9,
+      "avg_rooms_sold": 128.4,
+      "avg_unsold": 95.4,
+      "avg_occupancy": 0.5738,
+      "avg_revenue": 8001942.0,
+      "hotels": 49
+    },
+    {
+      "size_group": "小型",
+      "avg_total_rooms": 61.8,
+      "avg_rooms_sold": 33.3,
+      "avg_unsold": 28.6,
+      "avg_occupancy": 0.5352,
+      "avg_revenue": 2390296.0,
+      "hotels": 19
+    }
+  ],
+  "top_unsold": [
+    {
+      "hotel_name": "Hotel Indigo Singapore Katong by IHG",
+      "avg_unsold": 144.1,
+      "avg_occupancy": 0.4818,
+      "total_rooms": 278,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Novotel Shanghai Hongqiao",
+      "avg_unsold": 144.1,
+      "avg_occupancy": 0.3969,
+      "total_rooms": 239,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Suites at Hotel Mulia Senayan",
+      "avg_unsold": 131.3,
+      "avg_occupancy": 0.4058,
+      "total_rooms": 221,
+      "country": "印尼",
+      "city": "雅加達",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "InterContinental Taichung",
+      "avg_unsold": 131.1,
+      "avg_occupancy": 0.5839,
+      "total_rooms": 315,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Millennium Hilton Seoul",
+      "avg_unsold": 130.2,
+      "avg_occupancy": 0.503,
+      "total_rooms": 262,
+      "country": "韓國",
+      "city": "首爾",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Taipei",
+      "avg_unsold": 127.6,
+      "avg_occupancy": 0.4524,
+      "total_rooms": 233,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Riviera Hotel",
+      "avg_unsold": 125.8,
+      "avg_occupancy": 0.5916,
+      "total_rooms": 308,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Park Hotel Hong Kong",
+      "avg_unsold": 125.3,
+      "avg_occupancy": 0.4823,
+      "total_rooms": 242,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Solaria Nishitetsu Hotel Taipei Ximen",
+      "avg_unsold": 124.5,
+      "avg_occupancy": 0.3988,
+      "total_rooms": 207,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "New World Beijing Hotel",
+      "avg_unsold": 122.4,
+      "avg_occupancy": 0.4089,
+      "total_rooms": 207,
+      "country": "中國大陸",
+      "city": "北京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Leofoo Resort Guanshi",
+      "avg_unsold": 122.1,
+      "avg_occupancy": 0.487,
+      "total_rooms": 238,
+      "country": "台灣",
+      "city": "新竹縣",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Fraser Place Kuala Lumpur",
+      "avg_unsold": 117.2,
+      "avg_occupancy": 0.6001,
+      "total_rooms": 293,
+      "country": "馬來西亞",
+      "city": "吉隆坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Le Meridien Taichung",
+      "avg_unsold": 116.3,
+      "avg_occupancy": 0.4987,
+      "total_rooms": 232,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hotel Cozzi Zhongshan Kaohsiung",
+      "avg_unsold": 115.2,
+      "avg_occupancy": 0.5138,
+      "total_rooms": 237,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Eastin Grand Hotel Phayathai",
+      "avg_unsold": 111.9,
+      "avg_occupancy": 0.5558,
+      "total_rooms": 252,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Silks Place Yilan",
+      "avg_unsold": 111.3,
+      "avg_occupancy": 0.5363,
+      "total_rooms": 240,
+      "country": "台灣",
+      "city": "宜蘭",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Kaohsiung Marriott Hotel",
+      "avg_unsold": 110.6,
+      "avg_occupancy": 0.4708,
+      "total_rooms": 209,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Goodwood Park Hotel",
+      "avg_unsold": 106.3,
+      "avg_occupancy": 0.3997,
+      "total_rooms": 177,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Kimpton Maa-lai Bangkok by IHG",
+      "avg_unsold": 105.1,
+      "avg_occupancy": 0.5639,
+      "total_rooms": 241,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Kindness Hotel Kaohsiung Main Station",
+      "avg_unsold": 104.7,
+      "avg_occupancy": 0.4311,
+      "total_rooms": 184,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    }
+  ],
+  "bottom_unsold": [
+    {
+      "hotel_name": "InterContinental Taipei",
+      "avg_unsold": 32.8,
+      "avg_occupancy": 0.4244,
+      "total_rooms": 57,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "The Singapore EDITION",
+      "avg_unsold": 32.2,
+      "avg_occupancy": 0.7868,
+      "total_rooms": 151,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Naumi Hotel Singapore",
+      "avg_unsold": 29.1,
+      "avg_occupancy": 0.523,
+      "total_rooms": 61,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "voco Chiayi An",
+      "avg_unsold": 29.0,
+      "avg_occupancy": 0.6663,
+      "total_rooms": 87,
+      "country": "台灣",
+      "city": "嘉義市",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Shangri-La Far Eastern, Taipei",
+      "avg_unsold": 28.8,
+      "avg_occupancy": 0.6906,
+      "total_rooms": 93,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Just Sleep Taipei Ximending",
+      "avg_unsold": 28.2,
+      "avg_occupancy": 0.7209,
+      "total_rooms": 101,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Royal Chiaohsi",
+      "avg_unsold": 27.9,
+      "avg_occupancy": 0.6903,
+      "total_rooms": 90,
+      "country": "台灣",
+      "city": "宜蘭",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Citadines Connect City Centre Singapore",
+      "avg_unsold": 27.7,
+      "avg_occupancy": 0.5228,
+      "total_rooms": 58,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "The Splendor Hotel Taichung",
+      "avg_unsold": 27.6,
+      "avg_occupancy": 0.7153,
+      "total_rooms": 97,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Okada Manila",
+      "avg_unsold": 27.4,
+      "avg_occupancy": 0.3907,
+      "total_rooms": 45,
+      "country": "菲律賓",
+      "city": "馬尼拉",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Regent Taipei",
+      "avg_unsold": 26.4,
+      "avg_occupancy": 0.6863,
+      "total_rooms": 84,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Four Points by Sheraton Taipei Bali",
+      "avg_unsold": 26.0,
+      "avg_occupancy": 0.6389,
+      "total_rooms": 72,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Monday Apart Premium Ueno",
+      "avg_unsold": 25.5,
+      "avg_occupancy": 0.6406,
+      "total_rooms": 71,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Hotel Universal Port",
+      "avg_unsold": 24.5,
+      "avg_occupancy": 0.6336,
+      "total_rooms": 67,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Grand Mayfull Hotel Taipei",
+      "avg_unsold": 23.4,
+      "avg_occupancy": 0.6042,
+      "total_rooms": 59,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "JW Marriott Marquis Hotel Shanghai Pudong",
+      "avg_unsold": 21.5,
+      "avg_occupancy": 0.7469,
+      "total_rooms": 85,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "YOTELAIR Singapore Changi Airport",
+      "avg_unsold": 17.5,
+      "avg_occupancy": 0.7783,
+      "total_rooms": 79,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Ashley Tang Menteng",
+      "avg_unsold": 17.2,
+      "avg_occupancy": 0.6009,
+      "total_rooms": 43,
+      "country": "印尼",
+      "city": "雅加達",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Promisedland Resort & Lagoon",
+      "avg_unsold": 15.5,
+      "avg_occupancy": 0.6488,
+      "total_rooms": 44,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Le Meridien Hualien Resort",
+      "avg_unsold": 14.6,
+      "avg_occupancy": 0.6253,
+      "total_rooms": 39,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "小型"
+    }
+  ],
+  "daily_by_size": [
+    {
+      "date_str": "2026-10-01",
+      "size_group": "中型",
+      "avg_unsold": 59.1,
+      "avg_occupancy": 0.5396
+    },
+    {
+      "date_str": "2026-10-01",
+      "size_group": "大型",
+      "avg_unsold": 96.8,
+      "avg_occupancy": 0.5644
+    },
+    {
+      "date_str": "2026-10-01",
+      "size_group": "小型",
+      "avg_unsold": 30.5,
+      "avg_occupancy": 0.5112
+    },
+    {
+      "date_str": "2026-10-02",
+      "size_group": "中型",
+      "avg_unsold": 58.2,
+      "avg_occupancy": 0.5491
+    },
+    {
+      "date_str": "2026-10-02",
+      "size_group": "大型",
+      "avg_unsold": 96.2,
+      "avg_occupancy": 0.569
+    },
+    {
+      "date_str": "2026-10-02",
+      "size_group": "小型",
+      "avg_unsold": 28.3,
+      "avg_occupancy": 0.5389
+    },
+    {
+      "date_str": "2026-10-03",
+      "size_group": "中型",
+      "avg_unsold": 56.0,
+      "avg_occupancy": 0.5632
+    },
+    {
+      "date_str": "2026-10-03",
+      "size_group": "大型",
+      "avg_unsold": 92.0,
+      "avg_occupancy": 0.591
+    },
+    {
+      "date_str": "2026-10-03",
+      "size_group": "小型",
+      "avg_unsold": 27.6,
+      "avg_occupancy": 0.5477
+    },
+    {
+      "date_str": "2026-10-04",
+      "size_group": "中型",
+      "avg_unsold": 53.1,
+      "avg_occupancy": 0.5808
+    },
+    {
+      "date_str": "2026-10-04",
+      "size_group": "大型",
+      "avg_unsold": 98.3,
+      "avg_occupancy": 0.5591
+    },
+    {
+      "date_str": "2026-10-04",
+      "size_group": "小型",
+      "avg_unsold": 27.0,
+      "avg_occupancy": 0.5592
+    },
+    {
+      "date_str": "2026-10-05",
+      "size_group": "中型",
+      "avg_unsold": 57.1,
+      "avg_occupancy": 0.5509
+    },
+    {
+      "date_str": "2026-10-05",
+      "size_group": "大型",
+      "avg_unsold": 95.2,
+      "avg_occupancy": 0.5724
+    },
+    {
+      "date_str": "2026-10-05",
+      "size_group": "小型",
+      "avg_unsold": 30.0,
+      "avg_occupancy": 0.5126
+    },
+    {
+      "date_str": "2026-10-06",
+      "size_group": "中型",
+      "avg_unsold": 57.6,
+      "avg_occupancy": 0.5514
+    },
+    {
+      "date_str": "2026-10-06",
+      "size_group": "大型",
+      "avg_unsold": 100.0,
+      "avg_occupancy": 0.5548
+    },
+    {
+      "date_str": "2026-10-06",
+      "size_group": "小型",
+      "avg_unsold": 28.2,
+      "avg_occupancy": 0.544
+    },
+    {
+      "date_str": "2026-10-07",
+      "size_group": "中型",
+      "avg_unsold": 58.1,
+      "avg_occupancy": 0.5472
+    },
+    {
+      "date_str": "2026-10-07",
+      "size_group": "大型",
+      "avg_unsold": 97.6,
+      "avg_occupancy": 0.564
+    },
+    {
+      "date_str": "2026-10-07",
+      "size_group": "小型",
+      "avg_unsold": 28.7,
+      "avg_occupancy": 0.5339
+    },
+    {
+      "date_str": "2026-10-08",
+      "size_group": "中型",
+      "avg_unsold": 57.8,
+      "avg_occupancy": 0.5492
+    },
+    {
+      "date_str": "2026-10-08",
+      "size_group": "大型",
+      "avg_unsold": 98.0,
+      "avg_occupancy": 0.5622
+    },
+    {
+      "date_str": "2026-10-08",
+      "size_group": "小型",
+      "avg_unsold": 26.5,
+      "avg_occupancy": 0.5688
+    },
+    {
+      "date_str": "2026-10-09",
+      "size_group": "中型",
+      "avg_unsold": 53.4,
+      "avg_occupancy": 0.5888
+    },
+    {
+      "date_str": "2026-10-09",
+      "size_group": "大型",
+      "avg_unsold": 93.3,
+      "avg_occupancy": 0.5856
+    },
+    {
+      "date_str": "2026-10-09",
+      "size_group": "小型",
+      "avg_unsold": 25.4,
+      "avg_occupancy": 0.5844
+    },
+    {
+      "date_str": "2026-10-10",
+      "size_group": "中型",
+      "avg_unsold": 50.4,
+      "avg_occupancy": 0.6042
+    },
+    {
+      "date_str": "2026-10-10",
+      "size_group": "大型",
+      "avg_unsold": 83.1,
+      "avg_occupancy": 0.6304
+    },
+    {
+      "date_str": "2026-10-10",
+      "size_group": "小型",
+      "avg_unsold": 25.0,
+      "avg_occupancy": 0.5948
+    },
+    {
+      "date_str": "2026-10-11",
+      "size_group": "中型",
+      "avg_unsold": 54.4,
+      "avg_occupancy": 0.5757
+    },
+    {
+      "date_str": "2026-10-11",
+      "size_group": "大型",
+      "avg_unsold": 98.2,
+      "avg_occupancy": 0.5613
+    },
+    {
+      "date_str": "2026-10-11",
+      "size_group": "小型",
+      "avg_unsold": 27.3,
+      "avg_occupancy": 0.5453
+    },
+    {
+      "date_str": "2026-10-12",
+      "size_group": "中型",
+      "avg_unsold": 58.2,
+      "avg_occupancy": 0.5458
+    },
+    {
+      "date_str": "2026-10-12",
+      "size_group": "大型",
+      "avg_unsold": 93.2,
+      "avg_occupancy": 0.5817
+    },
+    {
+      "date_str": "2026-10-12",
+      "size_group": "小型",
+      "avg_unsold": 30.1,
+      "avg_occupancy": 0.5164
+    },
+    {
+      "date_str": "2026-10-13",
+      "size_group": "中型",
+      "avg_unsold": 60.0,
+      "avg_occupancy": 0.5342
+    },
+    {
+      "date_str": "2026-10-13",
+      "size_group": "大型",
+      "avg_unsold": 100.1,
+      "avg_occupancy": 0.5537
+    },
+    {
+      "date_str": "2026-10-13",
+      "size_group": "小型",
+      "avg_unsold": 30.0,
+      "avg_occupancy": 0.5117
+    },
+    {
+      "date_str": "2026-10-14",
+      "size_group": "中型",
+      "avg_unsold": 58.1,
+      "avg_occupancy": 0.5484
+    },
+    {
+      "date_str": "2026-10-14",
+      "size_group": "大型",
+      "avg_unsold": 91.3,
+      "avg_occupancy": 0.5902
+    },
+    {
+      "date_str": "2026-10-14",
+      "size_group": "小型",
+      "avg_unsold": 32.4,
+      "avg_occupancy": 0.4763
+    },
+    {
+      "date_str": "2026-10-15",
+      "size_group": "中型",
+      "avg_unsold": 58.7,
+      "avg_occupancy": 0.5418
+    },
+    {
+      "date_str": "2026-10-15",
+      "size_group": "大型",
+      "avg_unsold": 98.4,
+      "avg_occupancy": 0.5631
+    },
+    {
+      "date_str": "2026-10-15",
+      "size_group": "小型",
+      "avg_unsold": 29.9,
+      "avg_occupancy": 0.5164
+    },
+    {
+      "date_str": "2026-10-16",
+      "size_group": "中型",
+      "avg_unsold": 59.1,
+      "avg_occupancy": 0.5422
+    },
+    {
+      "date_str": "2026-10-16",
+      "size_group": "大型",
+      "avg_unsold": 100.6,
+      "avg_occupancy": 0.549
+    },
+    {
+      "date_str": "2026-10-16",
+      "size_group": "小型",
+      "avg_unsold": 30.6,
+      "avg_occupancy": 0.5056
+    },
+    {
+      "date_str": "2026-10-17",
+      "size_group": "中型",
+      "avg_unsold": 55.6,
+      "avg_occupancy": 0.5651
+    },
+    {
+      "date_str": "2026-10-17",
+      "size_group": "大型",
+      "avg_unsold": 91.1,
+      "avg_occupancy": 0.5926
+    },
+    {
+      "date_str": "2026-10-17",
+      "size_group": "小型",
+      "avg_unsold": 27.9,
+      "avg_occupancy": 0.5423
+    },
+    {
+      "date_str": "2026-10-18",
+      "size_group": "中型",
+      "avg_unsold": 54.4,
+      "avg_occupancy": 0.5739
+    },
+    {
+      "date_str": "2026-10-18",
+      "size_group": "大型",
+      "avg_unsold": 96.8,
+      "avg_occupancy": 0.566
+    },
+    {
+      "date_str": "2026-10-18",
+      "size_group": "小型",
+      "avg_unsold": 27.3,
+      "avg_occupancy": 0.5548
+    },
+    {
+      "date_str": "2026-10-19",
+      "size_group": "中型",
+      "avg_unsold": 59.3,
+      "avg_occupancy": 0.5396
+    },
+    {
+      "date_str": "2026-10-19",
+      "size_group": "大型",
+      "avg_unsold": 95.3,
+      "avg_occupancy": 0.5758
+    },
+    {
+      "date_str": "2026-10-19",
+      "size_group": "小型",
+      "avg_unsold": 30.3,
+      "avg_occupancy": 0.5061
+    },
+    {
+      "date_str": "2026-10-20",
+      "size_group": "中型",
+      "avg_unsold": 58.7,
+      "avg_occupancy": 0.5439
+    },
+    {
+      "date_str": "2026-10-20",
+      "size_group": "大型",
+      "avg_unsold": 98.1,
+      "avg_occupancy": 0.5602
+    },
+    {
+      "date_str": "2026-10-20",
+      "size_group": "小型",
+      "avg_unsold": 30.2,
+      "avg_occupancy": 0.5071
+    },
+    {
+      "date_str": "2026-10-21",
+      "size_group": "中型",
+      "avg_unsold": 59.3,
+      "avg_occupancy": 0.5397
+    },
+    {
+      "date_str": "2026-10-21",
+      "size_group": "大型",
+      "avg_unsold": 99.1,
+      "avg_occupancy": 0.5568
+    },
+    {
+      "date_str": "2026-10-21",
+      "size_group": "小型",
+      "avg_unsold": 28.5,
+      "avg_occupancy": 0.537
+    },
+    {
+      "date_str": "2026-10-22",
+      "size_group": "中型",
+      "avg_unsold": 59.6,
+      "avg_occupancy": 0.5358
+    },
+    {
+      "date_str": "2026-10-22",
+      "size_group": "大型",
+      "avg_unsold": 94.4,
+      "avg_occupancy": 0.5779
+    },
+    {
+      "date_str": "2026-10-22",
+      "size_group": "小型",
+      "avg_unsold": 27.7,
+      "avg_occupancy": 0.5421
+    },
+    {
+      "date_str": "2026-10-23",
+      "size_group": "中型",
+      "avg_unsold": 57.4,
+      "avg_occupancy": 0.5518
+    },
+    {
+      "date_str": "2026-10-23",
+      "size_group": "大型",
+      "avg_unsold": 95.7,
+      "avg_occupancy": 0.5744
+    },
+    {
+      "date_str": "2026-10-23",
+      "size_group": "小型",
+      "avg_unsold": 29.8,
+      "avg_occupancy": 0.5103
+    },
+    {
+      "date_str": "2026-10-24",
+      "size_group": "中型",
+      "avg_unsold": 56.1,
+      "avg_occupancy": 0.56
+    },
+    {
+      "date_str": "2026-10-24",
+      "size_group": "大型",
+      "avg_unsold": 97.0,
+      "avg_occupancy": 0.5713
+    },
+    {
+      "date_str": "2026-10-24",
+      "size_group": "小型",
+      "avg_unsold": 27.5,
+      "avg_occupancy": 0.5458
+    },
+    {
+      "date_str": "2026-10-25",
+      "size_group": "中型",
+      "avg_unsold": 48.4,
+      "avg_occupancy": 0.6239
+    },
+    {
+      "date_str": "2026-10-25",
+      "size_group": "大型",
+      "avg_unsold": 82.1,
+      "avg_occupancy": 0.6355
+    },
+    {
+      "date_str": "2026-10-25",
+      "size_group": "小型",
+      "avg_unsold": 25.1,
+      "avg_occupancy": 0.5898
+    },
+    {
+      "date_str": "2026-10-26",
+      "size_group": "中型",
+      "avg_unsold": 53.9,
+      "avg_occupancy": 0.5809
+    },
+    {
+      "date_str": "2026-10-26",
+      "size_group": "大型",
+      "avg_unsold": 88.4,
+      "avg_occupancy": 0.6063
+    },
+    {
+      "date_str": "2026-10-26",
+      "size_group": "小型",
+      "avg_unsold": 27.9,
+      "avg_occupancy": 0.5477
+    },
+    {
+      "date_str": "2026-10-27",
+      "size_group": "中型",
+      "avg_unsold": 58.0,
+      "avg_occupancy": 0.5453
+    },
+    {
+      "date_str": "2026-10-27",
+      "size_group": "大型",
+      "avg_unsold": 91.4,
+      "avg_occupancy": 0.5926
+    },
+    {
+      "date_str": "2026-10-27",
+      "size_group": "小型",
+      "avg_unsold": 29.9,
+      "avg_occupancy": 0.5162
+    },
+    {
+      "date_str": "2026-10-28",
+      "size_group": "中型",
+      "avg_unsold": 59.1,
+      "avg_occupancy": 0.5401
+    },
+    {
+      "date_str": "2026-10-28",
+      "size_group": "大型",
+      "avg_unsold": 100.7,
+      "avg_occupancy": 0.5483
+    },
+    {
+      "date_str": "2026-10-28",
+      "size_group": "小型",
+      "avg_unsold": 30.5,
+      "avg_occupancy": 0.505
+    },
+    {
+      "date_str": "2026-10-29",
+      "size_group": "中型",
+      "avg_unsold": 59.3,
+      "avg_occupancy": 0.5392
+    },
+    {
+      "date_str": "2026-10-29",
+      "size_group": "大型",
+      "avg_unsold": 98.1,
+      "avg_occupancy": 0.562
+    },
+    {
+      "date_str": "2026-10-29",
+      "size_group": "小型",
+      "avg_unsold": 29.5,
+      "avg_occupancy": 0.5251
+    },
+    {
+      "date_str": "2026-10-30",
+      "size_group": "中型",
+      "avg_unsold": 58.1,
+      "avg_occupancy": 0.5443
+    },
+    {
+      "date_str": "2026-10-30",
+      "size_group": "大型",
+      "avg_unsold": 101.2,
+      "avg_occupancy": 0.5452
+    },
+    {
+      "date_str": "2026-10-30",
+      "size_group": "小型",
+      "avg_unsold": 26.9,
+      "avg_occupancy": 0.5592
+    },
+    {
+      "date_str": "2026-10-31",
+      "size_group": "中型",
+      "avg_unsold": 56.5,
+      "avg_occupancy": 0.5602
+    },
+    {
+      "date_str": "2026-10-31",
+      "size_group": "大型",
+      "avg_unsold": 96.5,
+      "avg_occupancy": 0.5711
+    },
+    {
+      "date_str": "2026-10-31",
+      "size_group": "小型",
+      "avg_unsold": 28.6,
+      "avg_occupancy": 0.5365
+    }
+  ]
+}

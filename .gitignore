@@ -1,0 +1,7 @@
+node_modules/
+.air.toml
+*.exe
+*.dll
+vendor/
+go.sum
+go.work.sum

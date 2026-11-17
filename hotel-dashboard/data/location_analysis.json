@@ -1,0 +1,1684 @@
+{
+  "hotel_scatter": [
+    {
+      "hotel_name": "Ace Hotel Kyoto",
+      "distance_km": 9.7,
+      "avg_price": 12713.0,
+      "avg_price_index": 82.02,
+      "avg_occupancy": 0.4932,
+      "country": "日本",
+      "city": "京都",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Amanti Hotel Seoul",
+      "distance_km": 7.7,
+      "avg_price": 105510.0,
+      "avg_price_index": 72.76,
+      "avg_occupancy": 0.4207,
+      "country": "韓國",
+      "city": "首爾",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Ambassador Hotel Hsinchu",
+      "distance_km": 14.4,
+      "avg_price": 2728.0,
+      "avg_price_index": 85.24,
+      "avg_occupancy": 0.5225,
+      "country": "台灣",
+      "city": "新竹市",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Amoy Hotel by Far East Hospitality",
+      "distance_km": 4.1,
+      "avg_price": 228.0,
+      "avg_price_index": 113.81,
+      "avg_occupancy": 0.4369,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Andaz Taichung",
+      "distance_km": 2.4,
+      "avg_price": 2950.0,
+      "avg_price_index": 92.2,
+      "avg_occupancy": 0.551,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Andaz Taipei",
+      "distance_km": 4.7,
+      "avg_price": 4165.0,
+      "avg_price_index": 130.16,
+      "avg_occupancy": 0.6452,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Ashley Tang Menteng",
+      "distance_km": 9.4,
+      "avg_price": 556817.0,
+      "avg_price_index": 59.24,
+      "avg_occupancy": 0.6009,
+      "country": "印尼",
+      "city": "雅加達",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Busan Business Hotel",
+      "distance_km": 15.5,
+      "avg_price": 97581.0,
+      "avg_price_index": 67.3,
+      "avg_occupancy": 0.3861,
+      "country": "韓國",
+      "city": "釜山",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "CLASSYC Hotel",
+      "distance_km": 8.2,
+      "avg_price": 2066530.0,
+      "avg_price_index": 121.56,
+      "avg_occupancy": 0.552,
+      "country": "越南",
+      "city": "河內",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Caesar Park Hotel Kenting",
+      "distance_km": 0.8,
+      "avg_price": 3090.0,
+      "avg_price_index": 96.56,
+      "avg_occupancy": 0.4767,
+      "country": "台灣",
+      "city": "屏東",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Capella Taipei",
+      "distance_km": 4.7,
+      "avg_price": 3057.0,
+      "avg_price_index": 95.53,
+      "avg_occupancy": 0.5706,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Capri by Fraser China Square Singapore",
+      "distance_km": 13.4,
+      "avg_price": 163.0,
+      "avg_price_index": 81.73,
+      "avg_occupancy": 0.4861,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Centara Grand Hotel Osaka",
+      "distance_km": 6.5,
+      "avg_price": 8775.0,
+      "avg_price_index": 56.61,
+      "avg_occupancy": 0.4246,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Chanalai Romantica Resort",
+      "distance_km": 6.0,
+      "avg_price": 2737.0,
+      "avg_price_index": 94.39,
+      "avg_occupancy": 0.3802,
+      "country": "泰國",
+      "city": "普吉",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Chateau Beach Resort Kenting",
+      "distance_km": 1.1,
+      "avg_price": 1930.0,
+      "avg_price_index": 60.31,
+      "avg_occupancy": 0.371,
+      "country": "台灣",
+      "city": "屏東",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Citadines Connect City Centre Singapore",
+      "distance_km": 14.7,
+      "avg_price": 121.0,
+      "avg_price_index": 60.58,
+      "avg_occupancy": 0.5228,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "City Suites Taipei Nanxi",
+      "distance_km": 10.7,
+      "avg_price": 2909.0,
+      "avg_price_index": 90.91,
+      "avg_occupancy": 0.4707,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "CityInn Hotel Plus Ximending",
+      "distance_km": 3.1,
+      "avg_price": 2305.0,
+      "avg_price_index": 72.02,
+      "avg_occupancy": 0.6358,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Conrad Osaka",
+      "distance_km": 3.3,
+      "avg_price": 17144.0,
+      "avg_price_index": 110.6,
+      "avg_occupancy": 0.6496,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Conrad Tokyo",
+      "distance_km": 8.8,
+      "avg_price": 7575.0,
+      "avg_price_index": 48.87,
+      "avg_occupancy": 0.6161,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Cosmos Hotel Taipei",
+      "distance_km": 12.5,
+      "avg_price": 2947.0,
+      "avg_price_index": 92.1,
+      "avg_occupancy": 0.4932,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Courtyard by Marriott Phuket, Patong Beach Resort",
+      "distance_km": 2.0,
+      "avg_price": 3677.0,
+      "avg_price_index": 126.81,
+      "avg_occupancy": 0.707,
+      "country": "泰國",
+      "city": "普吉",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Courtyard by Marriott Taipei",
+      "distance_km": 16.2,
+      "avg_price": 2758.0,
+      "avg_price_index": 86.19,
+      "avg_occupancy": 0.5127,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Courtyard by Marriott Taipei Downtown",
+      "distance_km": 14.6,
+      "avg_price": 3383.0,
+      "avg_price_index": 105.71,
+      "avg_occupancy": 0.7285,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Crowne Plaza Changi Airport",
+      "distance_km": 5.6,
+      "avg_price": 279.0,
+      "avg_price_index": 139.52,
+      "avg_occupancy": 0.6198,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "EPISODE Daan Taipei, JdV by Hyatt",
+      "distance_km": 7.2,
+      "avg_price": 2759.0,
+      "avg_price_index": 86.22,
+      "avg_occupancy": 0.544,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "EPISODE Hsinchu - JdV by Hyatt",
+      "distance_km": 0.4,
+      "avg_price": 1744.0,
+      "avg_price_index": 54.51,
+      "avg_occupancy": 0.5207,
+      "country": "台灣",
+      "city": "新竹市",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Eastin Grand Hotel Phayathai",
+      "distance_km": 12.2,
+      "avg_price": 3182.0,
+      "avg_price_index": 109.72,
+      "avg_occupancy": 0.5558,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Evergreen Laurel Hotel Taipei",
+      "distance_km": 13.6,
+      "avg_price": 3608.0,
+      "avg_price_index": 112.76,
+      "avg_occupancy": 0.5621,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Fairmont Singapore",
+      "distance_km": 7.2,
+      "avg_price": 197.0,
+      "avg_price_index": 98.63,
+      "avg_occupancy": 0.4613,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Farglory Hotel Hualien",
+      "distance_km": 5.3,
+      "avg_price": 3263.0,
+      "avg_price_index": 101.97,
+      "avg_occupancy": 0.4468,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Fleur de Chine Hotel Sun Moon Lake",
+      "distance_km": 1.9,
+      "avg_price": 3381.0,
+      "avg_price_index": 105.65,
+      "avg_occupancy": 0.4974,
+      "country": "台灣",
+      "city": "南投",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Four Points by Sheraton Taipei Bali",
+      "distance_km": 3.5,
+      "avg_price": 2391.0,
+      "avg_price_index": 74.72,
+      "avg_occupancy": 0.6389,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Singapore",
+      "distance_km": 2.2,
+      "avg_price": 235.0,
+      "avg_price_index": 117.48,
+      "avg_occupancy": 0.6049,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Four Seasons Hotel Taipei",
+      "distance_km": 8.1,
+      "avg_price": 4253.0,
+      "avg_price_index": 132.92,
+      "avg_occupancy": 0.4524,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Fraser Place Kuala Lumpur",
+      "distance_km": 6.1,
+      "avg_price": 346.0,
+      "avg_price_index": 115.37,
+      "avg_occupancy": 0.6001,
+      "country": "馬來西亞",
+      "city": "吉隆坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Fraser Residence Nankai Osaka",
+      "distance_km": 12.5,
+      "avg_price": 11851.0,
+      "avg_price_index": 76.46,
+      "avg_occupancy": 0.489,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Fullon Hotel Tamsui Fisherman's Wharf",
+      "distance_km": 2.8,
+      "avg_price": 3553.0,
+      "avg_price_index": 111.02,
+      "avg_occupancy": 0.4796,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Gardina Asoke Hotel & Residence",
+      "distance_km": 1.8,
+      "avg_price": 2669.0,
+      "avg_price_index": 92.05,
+      "avg_occupancy": 0.6033,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Gloria Prince Hotel Taipei",
+      "distance_km": 4.2,
+      "avg_price": 3226.0,
+      "avg_price_index": 100.81,
+      "avg_occupancy": 0.6034,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Goodwood Park Hotel",
+      "distance_km": 4.2,
+      "avg_price": 191.0,
+      "avg_price_index": 95.5,
+      "avg_occupancy": 0.3997,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Hi-Lai Hotel Kaohsiung",
+      "distance_km": 10.7,
+      "avg_price": 3173.0,
+      "avg_price_index": 99.14,
+      "avg_occupancy": 0.6203,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Hilai Sun Moon Lake",
+      "distance_km": 8.9,
+      "avg_price": 2429.0,
+      "avg_price_index": 75.9,
+      "avg_occupancy": 0.4307,
+      "country": "台灣",
+      "city": "南投",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Hilai Taipei",
+      "distance_km": 10.1,
+      "avg_price": 3335.0,
+      "avg_price_index": 104.22,
+      "avg_occupancy": 0.727,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Hyatt Singapore",
+      "distance_km": 12.9,
+      "avg_price": 177.0,
+      "avg_price_index": 88.45,
+      "avg_occupancy": 0.5229,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Hyatt Taipei",
+      "distance_km": 1.7,
+      "avg_price": 3852.0,
+      "avg_price_index": 120.36,
+      "avg_occupancy": 0.5939,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand Mayfull Hotel Taipei",
+      "distance_km": 2.2,
+      "avg_price": 2157.0,
+      "avg_price_index": 67.42,
+      "avg_occupancy": 0.6042,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Grand Park Orchard",
+      "distance_km": 4.9,
+      "avg_price": 264.0,
+      "avg_price_index": 131.97,
+      "avg_occupancy": 0.722,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Grand View Resort Beitou",
+      "distance_km": 8.7,
+      "avg_price": 3285.0,
+      "avg_price_index": 102.66,
+      "avg_occupancy": 0.6387,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Green World Hotel Zhonghua",
+      "distance_km": 2.0,
+      "avg_price": 3853.0,
+      "avg_price_index": 120.42,
+      "avg_occupancy": 0.6517,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hiiragiya Ryokan",
+      "distance_km": 8.1,
+      "avg_price": 18156.0,
+      "avg_price_index": 117.14,
+      "avg_occupancy": 0.4352,
+      "country": "日本",
+      "city": "京都",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hilton Garden Inn Hong Kong Mongkok",
+      "distance_km": 16.9,
+      "avg_price": 665.0,
+      "avg_price_index": 69.96,
+      "avg_occupancy": 0.6593,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Holiday Inn Express Hong Kong Mongkok",
+      "distance_km": 2.7,
+      "avg_price": 712.0,
+      "avg_price_index": 75.0,
+      "avg_occupancy": 0.5769,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hong Kong SkyCity Marriott Hotel",
+      "distance_km": 15.6,
+      "avg_price": 716.0,
+      "avg_price_index": 75.41,
+      "avg_occupancy": 0.653,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Boss",
+      "distance_km": 2.8,
+      "avg_price": 165.0,
+      "avg_price_index": 82.53,
+      "avg_occupancy": 0.5447,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hotel Cozzi Zhongshan Kaohsiung",
+      "distance_km": 4.0,
+      "avg_price": 3799.0,
+      "avg_price_index": 118.73,
+      "avg_occupancy": 0.5138,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hotel Indigo Alishan",
+      "distance_km": 7.7,
+      "avg_price": 2170.0,
+      "avg_price_index": 67.81,
+      "avg_occupancy": 0.4965,
+      "country": "台灣",
+      "city": "嘉義縣",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Indigo Kaohsiung Central Park by IHG",
+      "distance_km": 5.2,
+      "avg_price": 2261.0,
+      "avg_price_index": 70.67,
+      "avg_occupancy": 0.4687,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Indigo Singapore Katong by IHG",
+      "distance_km": 6.4,
+      "avg_price": 287.0,
+      "avg_price_index": 143.42,
+      "avg_occupancy": 0.4818,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hotel Nikko Kaohsiung",
+      "distance_km": 2.2,
+      "avg_price": 2991.0,
+      "avg_price_index": 93.48,
+      "avg_occupancy": 0.7387,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Royal Chiaohsi",
+      "distance_km": 14.3,
+      "avg_price": 4122.0,
+      "avg_price_index": 128.8,
+      "avg_occupancy": 0.6903,
+      "country": "台灣",
+      "city": "宜蘭",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hotel Royal Chihpen",
+      "distance_km": 4.2,
+      "avg_price": 3346.0,
+      "avg_price_index": 104.56,
+      "avg_occupancy": 0.6797,
+      "country": "台灣",
+      "city": "台東",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hotel Universal Port",
+      "distance_km": 12.4,
+      "avg_price": 16657.0,
+      "avg_price_index": 107.47,
+      "avg_occupancy": 0.6336,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Howard Plaza Hotel Taipei",
+      "distance_km": 7.5,
+      "avg_price": 3509.0,
+      "avg_price_index": 109.66,
+      "avg_occupancy": 0.7635,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Hyatt Kaohsiung (brand to be confirmed)",
+      "distance_km": 5.8,
+      "avg_price": 3703.0,
+      "avg_price_index": 115.73,
+      "avg_occupancy": 0.6676,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hyatt Place New Taipei City Xinzhuang",
+      "distance_km": 4.6,
+      "avg_price": 1685.0,
+      "avg_price_index": 52.66,
+      "avg_occupancy": 0.3763,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Hyatt Regency Taoyuan International Airport",
+      "distance_km": 16.6,
+      "avg_price": 2980.0,
+      "avg_price_index": 93.14,
+      "avg_occupancy": 0.4486,
+      "country": "台灣",
+      "city": "桃園機場",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "InterContinental New Taipei Hot Spring",
+      "distance_km": 6.7,
+      "avg_price": 2331.0,
+      "avg_price_index": 72.84,
+      "avg_occupancy": 0.4507,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "InterContinental Taichung",
+      "distance_km": 3.1,
+      "avg_price": 3935.0,
+      "avg_price_index": 122.98,
+      "avg_occupancy": 0.5839,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "InterContinental Taipei",
+      "distance_km": 6.0,
+      "avg_price": 1894.0,
+      "avg_price_index": 59.18,
+      "avg_occupancy": 0.4244,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "InterContinental The Strings Tokyo by IHG",
+      "distance_km": 3.3,
+      "avg_price": 16570.0,
+      "avg_price_index": 106.9,
+      "avg_occupancy": 0.6806,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "JW Marriott Hotel Singapore South Beach",
+      "distance_km": 7.9,
+      "avg_price": 146.0,
+      "avg_price_index": 73.05,
+      "avg_occupancy": 0.5174,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "JW Marriott Marquis Hotel Shanghai Pudong",
+      "distance_km": 7.0,
+      "avg_price": 691.0,
+      "avg_price_index": 117.11,
+      "avg_occupancy": 0.7469,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "JW Marriott Taichung",
+      "distance_km": 2.3,
+      "avg_price": 2809.0,
+      "avg_price_index": 87.77,
+      "avg_occupancy": 0.5852,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Just Sleep Taipei Ximending",
+      "distance_km": 12.0,
+      "avg_price": 3068.0,
+      "avg_price_index": 95.87,
+      "avg_occupancy": 0.7209,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Kaohsiung Marriott Hotel",
+      "distance_km": 7.6,
+      "avg_price": 4287.0,
+      "avg_price_index": 133.98,
+      "avg_occupancy": 0.4708,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Kimpton Da An Hotel by IHG",
+      "distance_km": 4.0,
+      "avg_price": 3289.0,
+      "avg_price_index": 102.78,
+      "avg_occupancy": 0.5029,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Kimpton Maa-lai Bangkok by IHG",
+      "distance_km": 7.1,
+      "avg_price": 3314.0,
+      "avg_price_index": 114.27,
+      "avg_occupancy": 0.5639,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Kindness Hotel Kaohsiung Main Station",
+      "distance_km": 0.8,
+      "avg_price": 3293.0,
+      "avg_price_index": 102.89,
+      "avg_occupancy": 0.4311,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "La Siesta Classic Hang Thung",
+      "distance_km": 16.3,
+      "avg_price": 899168.0,
+      "avg_price_index": 52.89,
+      "avg_occupancy": 0.4329,
+      "country": "越南",
+      "city": "河內",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "La Sinfonia del Rey Hotel & Spa",
+      "distance_km": 5.4,
+      "avg_price": 1770464.0,
+      "avg_price_index": 104.15,
+      "avg_occupancy": 0.6917,
+      "country": "越南",
+      "city": "河內",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Lakeshore Hotel Hsinchu",
+      "distance_km": 9.1,
+      "avg_price": 4329.0,
+      "avg_price_index": 135.28,
+      "avg_occupancy": 0.6277,
+      "country": "台灣",
+      "city": "新竹市",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Le Meridien Hualien Resort",
+      "distance_km": 5.6,
+      "avg_price": 2528.0,
+      "avg_price_index": 79.0,
+      "avg_occupancy": 0.6253,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Le Meridien Taichung",
+      "distance_km": 3.9,
+      "avg_price": 4066.0,
+      "avg_price_index": 127.07,
+      "avg_occupancy": 0.4987,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Le Meridien Taipei Banqiao",
+      "distance_km": 0.8,
+      "avg_price": 2237.0,
+      "avg_price_index": 69.91,
+      "avg_occupancy": 0.4746,
+      "country": "台灣",
+      "city": "新北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Leofoo Resort Guanshi",
+      "distance_km": 6.5,
+      "avg_price": 4013.0,
+      "avg_price_index": 125.42,
+      "avg_occupancy": 0.487,
+      "country": "台灣",
+      "city": "新竹縣",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Lotte City Hotel Myeongdong",
+      "distance_km": 10.7,
+      "avg_price": 139680.0,
+      "avg_price_index": 96.33,
+      "avg_occupancy": 0.4999,
+      "country": "韓國",
+      "city": "首爾",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "MIMARU Tokyo Ginza East",
+      "distance_km": 16.5,
+      "avg_price": 20971.0,
+      "avg_price_index": 135.3,
+      "avg_occupancy": 0.7774,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "MONday Apart Premium KYOTO Station",
+      "distance_km": 2.0,
+      "avg_price": 14501.0,
+      "avg_price_index": 93.55,
+      "avg_occupancy": 0.421,
+      "country": "日本",
+      "city": "京都",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "MONday Apart Premium Ueno Okachimachi",
+      "distance_km": 1.5,
+      "avg_price": 19299.0,
+      "avg_price_index": 124.51,
+      "avg_occupancy": 0.6088,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "MONday Apart Ueno Shin Okachimachi",
+      "distance_km": 5.4,
+      "avg_price": 13399.0,
+      "avg_price_index": 86.45,
+      "avg_occupancy": 0.6855,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Maladee Rendezvous Hotel",
+      "distance_km": 3.6,
+      "avg_price": 3348.0,
+      "avg_price_index": 115.46,
+      "avg_occupancy": 0.5939,
+      "country": "泰國",
+      "city": "清邁",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Mandarin Orchard Singapore",
+      "distance_km": 4.4,
+      "avg_price": 232.0,
+      "avg_price_index": 116.23,
+      "avg_occupancy": 0.6561,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Hong Kong",
+      "distance_km": 2.4,
+      "avg_price": 744.0,
+      "avg_price_index": 78.31,
+      "avg_occupancy": 0.5288,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Mandarin Oriental, Singapore",
+      "distance_km": 1.8,
+      "avg_price": 213.0,
+      "avg_price_index": 106.39,
+      "avg_occupancy": 0.6318,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Marina Bay Sands",
+      "distance_km": 6.5,
+      "avg_price": 212.0,
+      "avg_price_index": 105.77,
+      "avg_occupancy": 0.542,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Millennium Hilton Seoul",
+      "distance_km": 4.1,
+      "avg_price": 198798.0,
+      "avg_price_index": 137.1,
+      "avg_occupancy": 0.503,
+      "country": "韓國",
+      "city": "首爾",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Monday Apart Premium Ueno",
+      "distance_km": 3.2,
+      "avg_price": 9244.0,
+      "avg_price_index": 59.64,
+      "avg_occupancy": 0.6406,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Na Nirand Romantic Boutique Resort",
+      "distance_km": 2.9,
+      "avg_price": 2530.0,
+      "avg_price_index": 87.25,
+      "avg_occupancy": 0.6236,
+      "country": "泰國",
+      "city": "清邁",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Naumi Hotel Singapore",
+      "distance_km": 8.2,
+      "avg_price": 135.0,
+      "avg_price_index": 67.42,
+      "avg_occupancy": 0.523,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "New World Beijing Hotel",
+      "distance_km": 13.7,
+      "avg_price": 695.0,
+      "avg_price_index": 117.84,
+      "avg_occupancy": 0.4089,
+      "country": "中國大陸",
+      "city": "北京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Novotel Bangkok Suvarnabhumi Airport",
+      "distance_km": 0.2,
+      "avg_price": 3455.0,
+      "avg_price_index": 119.13,
+      "avg_occupancy": 0.6025,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Novotel Shanghai Hongqiao",
+      "distance_km": 16.1,
+      "avg_price": 755.0,
+      "avg_price_index": 127.98,
+      "avg_occupancy": 0.3969,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Novotel Taipei Taoyuan International Airport",
+      "distance_km": 2.9,
+      "avg_price": 3568.0,
+      "avg_price_index": 111.49,
+      "avg_occupancy": 0.7233,
+      "country": "台灣",
+      "city": "桃園機場",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Okada Manila",
+      "distance_km": 8.8,
+      "avg_price": 2290.0,
+      "avg_price_index": 54.53,
+      "avg_occupancy": 0.3907,
+      "country": "菲律賓",
+      "city": "馬尼拉",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "One Farrer Hotel",
+      "distance_km": 9.0,
+      "avg_price": 206.0,
+      "avg_price_index": 103.23,
+      "avg_occupancy": 0.5945,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Pacific Club Resort",
+      "distance_km": 7.1,
+      "avg_price": 2875.0,
+      "avg_price_index": 99.13,
+      "avg_occupancy": 0.5644,
+      "country": "泰國",
+      "city": "普吉",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Palace Hotel Tokyo",
+      "distance_km": 4.4,
+      "avg_price": 14815.0,
+      "avg_price_index": 95.58,
+      "avg_occupancy": 0.5502,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Palais de Chine Hotel",
+      "distance_km": 4.6,
+      "avg_price": 2350.0,
+      "avg_price_index": 73.44,
+      "avg_occupancy": 0.6441,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Pan Pacific Singapore",
+      "distance_km": 6.6,
+      "avg_price": 204.0,
+      "avg_price_index": 101.76,
+      "avg_occupancy": 0.4345,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Park Hotel Hong Kong",
+      "distance_km": 16.6,
+      "avg_price": 1368.0,
+      "avg_price_index": 144.05,
+      "avg_occupancy": 0.4823,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Park Hotel Kyoto Oike",
+      "distance_km": 13.8,
+      "avg_price": 20715.0,
+      "avg_price_index": 133.65,
+      "avg_occupancy": 0.6461,
+      "country": "日本",
+      "city": "京都",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Park Hyatt Busan",
+      "distance_km": 1.5,
+      "avg_price": 122109.0,
+      "avg_price_index": 84.21,
+      "avg_occupancy": 0.5133,
+      "country": "韓國",
+      "city": "釜山",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Park Hyatt Taipei",
+      "distance_km": 7.3,
+      "avg_price": 3142.0,
+      "avg_price_index": 98.19,
+      "avg_occupancy": 0.6762,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Promisedland Resort & Lagoon",
+      "distance_km": 4.5,
+      "avg_price": 1517.0,
+      "avg_price_index": 47.41,
+      "avg_occupancy": 0.6488,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Pullman Tokyo Tamachi",
+      "distance_km": 8.3,
+      "avg_price": 16119.0,
+      "avg_price_index": 104.0,
+      "avg_occupancy": 0.4708,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Radium Kagaya International Hotel",
+      "distance_km": 12.8,
+      "avg_price": 3783.0,
+      "avg_price_index": 118.22,
+      "avg_occupancy": 0.7331,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Raffles Singapore",
+      "distance_km": 7.9,
+      "avg_price": 244.0,
+      "avg_price_index": 121.82,
+      "avg_occupancy": 0.5417,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Regal Airport Hotel",
+      "distance_km": 9.8,
+      "avg_price": 910.0,
+      "avg_price_index": 95.84,
+      "avg_occupancy": 0.6525,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Regent Taipei",
+      "distance_km": 1.0,
+      "avg_price": 2698.0,
+      "avg_price_index": 84.32,
+      "avg_occupancy": 0.6863,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Renaissance Phuket Resort & Spa",
+      "distance_km": 3.9,
+      "avg_price": 2066.0,
+      "avg_price_index": 71.24,
+      "avg_occupancy": 0.692,
+      "country": "泰國",
+      "city": "普吉",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Royal Park Hotel Tokyo Haneda",
+      "distance_km": 4.9,
+      "avg_price": 21878.0,
+      "avg_price_index": 141.15,
+      "avg_occupancy": 0.6773,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Shangri-La Far Eastern, Taipei",
+      "distance_km": 14.6,
+      "avg_price": 2570.0,
+      "avg_price_index": 80.31,
+      "avg_occupancy": 0.6906,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Shangri-La Hotel, Beijing",
+      "distance_km": 5.6,
+      "avg_price": 367.0,
+      "avg_price_index": 62.25,
+      "avg_occupancy": 0.4365,
+      "country": "中國大陸",
+      "city": "北京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Signia by Hilton Tainan",
+      "distance_km": 8.3,
+      "avg_price": 2344.0,
+      "avg_price_index": 73.24,
+      "avg_occupancy": 0.431,
+      "country": "台灣",
+      "city": "台南",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Silks Place Tainan",
+      "distance_km": 9.5,
+      "avg_price": 2489.0,
+      "avg_price_index": 77.78,
+      "avg_occupancy": 0.4888,
+      "country": "台灣",
+      "city": "台南",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Silks Place Taroko",
+      "distance_km": 15.7,
+      "avg_price": 1868.0,
+      "avg_price_index": 58.38,
+      "avg_occupancy": 0.3517,
+      "country": "台灣",
+      "city": "花蓮",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "Silks Place Yilan",
+      "distance_km": 4.2,
+      "avg_price": 4668.0,
+      "avg_price_index": 145.88,
+      "avg_occupancy": 0.5363,
+      "country": "台灣",
+      "city": "宜蘭",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Solaire Resort Entertainment City",
+      "distance_km": 8.0,
+      "avg_price": 4773.0,
+      "avg_price_index": 113.64,
+      "avg_occupancy": 0.5582,
+      "country": "菲律賓",
+      "city": "馬尼拉",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Solaria Nishitetsu Hotel Busan",
+      "distance_km": 3.3,
+      "avg_price": 87798.0,
+      "avg_price_index": 60.55,
+      "avg_occupancy": 0.4591,
+      "country": "韓國",
+      "city": "釜山",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Solaria Nishitetsu Hotel Taipei Ximen",
+      "distance_km": 14.4,
+      "avg_price": 3191.0,
+      "avg_price_index": 99.72,
+      "avg_occupancy": 0.3988,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Sotetsu Grand Fresa Taipei Ximen",
+      "distance_km": 1.2,
+      "avg_price": 3118.0,
+      "avg_price_index": 97.44,
+      "avg_occupancy": 0.6486,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Swissotel Nankai Osaka",
+      "distance_km": 1.1,
+      "avg_price": 17165.0,
+      "avg_price_index": 110.74,
+      "avg_occupancy": 0.5351,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Swissotel The Stamford",
+      "distance_km": 6.4,
+      "avg_price": 176.0,
+      "avg_price_index": 87.77,
+      "avg_occupancy": 0.461,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Tayih Landis Tainan",
+      "distance_km": 12.0,
+      "avg_price": 4175.0,
+      "avg_price_index": 130.46,
+      "avg_occupancy": 0.4674,
+      "country": "台灣",
+      "city": "台南",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Clan Hotel Singapore",
+      "distance_km": 10.2,
+      "avg_price": 186.0,
+      "avg_price_index": 93.1,
+      "avg_occupancy": 0.5059,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "The Fullerton Bay Hotel Singapore",
+      "distance_km": 8.9,
+      "avg_price": 119.0,
+      "avg_price_index": 59.69,
+      "avg_occupancy": 0.3899,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Fullerton Hotel Singapore",
+      "distance_km": 8.8,
+      "avg_price": 176.0,
+      "avg_price_index": 88.06,
+      "avg_occupancy": 0.5719,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Grand Hotel Taipei",
+      "distance_km": 8.7,
+      "avg_price": 2641.0,
+      "avg_price_index": 82.53,
+      "avg_occupancy": 0.5502,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Lalu Sun Moon Lake",
+      "distance_km": 13.2,
+      "avg_price": 2953.0,
+      "avg_price_index": 92.28,
+      "avg_occupancy": 0.3651,
+      "country": "台灣",
+      "city": "南投",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Lees Hotel Kaohsiung",
+      "distance_km": 4.1,
+      "avg_price": 4415.0,
+      "avg_price_index": 137.98,
+      "avg_occupancy": 0.709,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Lin Hotel Taichung",
+      "distance_km": 16.3,
+      "avg_price": 3165.0,
+      "avg_price_index": 98.9,
+      "avg_occupancy": 0.5094,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "The Okura Prestige Bangkok",
+      "distance_km": 6.3,
+      "avg_price": 3911.0,
+      "avg_price_index": 134.86,
+      "avg_occupancy": 0.5142,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Riviera Hotel",
+      "distance_km": 16.6,
+      "avg_price": 3972.0,
+      "avg_price_index": 124.13,
+      "avg_occupancy": 0.5916,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Singapore EDITION",
+      "distance_km": 13.0,
+      "avg_price": 276.0,
+      "avg_price_index": 138.23,
+      "avg_occupancy": 0.7868,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Splendor Hotel Taichung",
+      "distance_km": 9.5,
+      "avg_price": 2995.0,
+      "avg_price_index": 93.61,
+      "avg_occupancy": 0.7153,
+      "country": "台灣",
+      "city": "台中",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The Suites at Hotel Mulia Senayan",
+      "distance_km": 5.2,
+      "avg_price": 807150.0,
+      "avg_price_index": 85.87,
+      "avg_occupancy": 0.4058,
+      "country": "印尼",
+      "city": "雅加達",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Sukhothai Bangkok",
+      "distance_km": 10.7,
+      "avg_price": 2492.0,
+      "avg_price_index": 85.93,
+      "avg_occupancy": 0.6148,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "The T Hotel",
+      "distance_km": 8.1,
+      "avg_price": 1061.0,
+      "avg_price_index": 111.7,
+      "avg_occupancy": 0.7297,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "The Tokyo Station Hotel",
+      "distance_km": 8.6,
+      "avg_price": 13688.0,
+      "avg_price_index": 88.31,
+      "avg_occupancy": 0.6177,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Upper House Hong Kong",
+      "distance_km": 5.5,
+      "avg_price": 1007.0,
+      "avg_price_index": 106.04,
+      "avg_occupancy": 0.6315,
+      "country": "香港",
+      "city": "香港",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "VIE Hotel Bangkok - MGallery Collection",
+      "distance_km": 4.2,
+      "avg_price": 2836.0,
+      "avg_price_index": 97.79,
+      "avg_occupancy": 0.4373,
+      "country": "泰國",
+      "city": "曼谷",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "VUE Hotel Houhai Beijing",
+      "distance_km": 16.3,
+      "avg_price": 601.0,
+      "avg_price_index": 101.93,
+      "avg_occupancy": 0.4428,
+      "country": "中國大陸",
+      "city": "北京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Villa Fontaine Grand Haneda Airport",
+      "distance_km": 5.9,
+      "avg_price": 8231.0,
+      "avg_price_index": 53.1,
+      "avg_occupancy": 0.5303,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "W Kuala Lumpur",
+      "distance_km": 3.7,
+      "avg_price": 305.0,
+      "avg_price_index": 101.65,
+      "avg_occupancy": 0.6329,
+      "country": "馬來西亞",
+      "city": "吉隆坡",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "W Osaka",
+      "distance_km": 5.1,
+      "avg_price": 16843.0,
+      "avg_price_index": 108.66,
+      "avg_occupancy": 0.5684,
+      "country": "日本",
+      "city": "大阪",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "Waldorf Astoria Shanghai on the Bund",
+      "distance_km": 3.5,
+      "avg_price": 658.0,
+      "avg_price_index": 111.46,
+      "avg_occupancy": 0.6574,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Wellspring by Silks Beitou",
+      "distance_km": 8.2,
+      "avg_price": 2990.0,
+      "avg_price_index": 93.45,
+      "avg_occupancy": 0.4936,
+      "country": "台灣",
+      "city": "台北",
+      "size_group": "大型"
+    },
+    {
+      "hotel_name": "Wyndham Sun Moon Lake",
+      "distance_km": 15.7,
+      "avg_price": 2848.0,
+      "avg_price_index": 89.0,
+      "avg_occupancy": 0.6466,
+      "country": "台灣",
+      "city": "南投",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "YOTELAIR Singapore Changi Airport",
+      "distance_km": 12.3,
+      "avg_price": 260.0,
+      "avg_price_index": 130.19,
+      "avg_occupancy": 0.7783,
+      "country": "新加坡",
+      "city": "新加坡",
+      "size_group": "小型"
+    },
+    {
+      "hotel_name": "citizenM Shanghai Hongqiao",
+      "distance_km": 5.9,
+      "avg_price": 540.0,
+      "avg_price_index": 91.6,
+      "avg_occupancy": 0.5438,
+      "country": "中國大陸",
+      "city": "上海",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "hotel MONday Premium TOYOSU",
+      "distance_km": 0.8,
+      "avg_price": 17447.0,
+      "avg_price_index": 112.56,
+      "avg_occupancy": 0.4725,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "hotel MONday Premium UenoOkachimachi",
+      "distance_km": 13.7,
+      "avg_price": 15399.0,
+      "avg_price_index": 99.35,
+      "avg_occupancy": 0.498,
+      "country": "日本",
+      "city": "東京",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "voco Chiayi An",
+      "distance_km": 2.1,
+      "avg_price": 2545.0,
+      "avg_price_index": 79.54,
+      "avg_occupancy": 0.6663,
+      "country": "台灣",
+      "city": "嘉義市",
+      "size_group": "中型"
+    },
+    {
+      "hotel_name": "群賢會館 Elite House (NKUHT)",
+      "distance_km": 13.0,
+      "avg_price": 3424.0,
+      "avg_price_index": 106.99,
+      "avg_occupancy": 0.6856,
+      "country": "台灣",
+      "city": "高雄",
+      "size_group": "大型"
+    }
+  ],
+  "distance_bins": [
+    {
+      "bin": "市中心(≤3km)",
+      "avg_price_index": 95.67,
+      "avg_occupancy": 0.5701,
+      "hotels": 31,
+      "avg_room_price": 8216.0
+    },
+    {
+      "bin": "近郊(3-6km)",
+      "avg_price_index": 98.52,
+      "avg_occupancy": 0.5718,
+      "hotels": 46,
+      "avg_room_price": 66506.0
+    },
+    {
+      "bin": "中距(6-10km)",
+      "avg_price_index": 95.98,
+      "avg_occupancy": 0.5375,
+      "hotels": 45,
+      "avg_room_price": 63958.0
+    },
+    {
+      "bin": "郊區(>10km)",
+      "avg_price_index": 99.68,
+      "avg_occupancy": 0.5608,
+      "hotels": 43,
+      "avg_room_price": 30247.0
+    }
+  ]
+}

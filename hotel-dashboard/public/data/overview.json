@@ -1,0 +1,138 @@
+{
+  "total_records": 80848,
+  "primary_records": 5115,
+  "countries": 11,
+  "hotels": 165,
+  "cities": 31,
+  "date_range": {
+    "start": "2026-10-01",
+    "end": "2026-10-31"
+  },
+  "avg_occupancy": 0.5593,
+  "avg_price_index": 97.59,
+  "total_rooms_sold": 433210,
+  "total_unsold": 332769,
+  "countries_data": [
+    {
+      "country": "中國大陸",
+      "hotels": 7,
+      "avg_occupancy": 0.519,
+      "avg_price_index": 104.31,
+      "avg_room_price": 615.0,
+      "total_rooms_sold": 18785,
+      "total_unsold": 18167,
+      "avg_facility_score": 6.6,
+      "currency": "CNY"
+    },
+    {
+      "country": "印尼",
+      "hotels": 2,
+      "avg_occupancy": 0.5033,
+      "avg_price_index": 72.55,
+      "avg_room_price": 681983.0,
+      "total_rooms_sold": 3581,
+      "total_unsold": 4603,
+      "avg_facility_score": 4.55,
+      "currency": "IDR"
+    },
+    {
+      "country": "台灣",
+      "hotels": 74,
+      "avg_occupancy": 0.5645,
+      "avg_price_index": 96.52,
+      "avg_room_price": 3089.0,
+      "total_rooms_sold": 192071,
+      "total_unsold": 145643,
+      "avg_facility_score": 6.07,
+      "currency": "TWD"
+    },
+    {
+      "country": "新加坡",
+      "hotels": 25,
+      "avg_occupancy": 0.5495,
+      "avg_price_index": 101.85,
+      "avg_room_price": 204.0,
+      "total_rooms_sold": 58998,
+      "total_unsold": 48014,
+      "avg_facility_score": 6.44,
+      "currency": "SGD"
+    },
+    {
+      "country": "日本",
+      "hotels": 23,
+      "avg_occupancy": 0.5705,
+      "avg_price_index": 97.94,
+      "avg_room_price": 15181.0,
+      "total_rooms_sold": 58469,
+      "total_unsold": 41506,
+      "avg_facility_score": 6.31,
+      "currency": "JPY"
+    },
+    {
+      "country": "泰國",
+      "hotels": 13,
+      "avg_occupancy": 0.5733,
+      "avg_price_index": 103.69,
+      "avg_room_price": 3007.0,
+      "total_rooms_sold": 41226,
+      "total_unsold": 29361,
+      "avg_facility_score": 6.1,
+      "currency": "THB"
+    },
+    {
+      "country": "菲律賓",
+      "hotels": 2,
+      "avg_occupancy": 0.4744,
+      "avg_price_index": 84.09,
+      "avg_room_price": 3532.0,
+      "total_rooms_sold": 3331,
+      "total_unsold": 3055,
+      "avg_facility_score": 4.2,
+      "currency": "PHP"
+    },
+    {
+      "country": "越南",
+      "hotels": 3,
+      "avg_occupancy": 0.5589,
+      "avg_price_index": 92.87,
+      "avg_room_price": 1578721.0,
+      "total_rooms_sold": 8005,
+      "total_unsold": 5821,
+      "avg_facility_score": 5.83,
+      "currency": "VND"
+    },
+    {
+      "country": "韓國",
+      "hotels": 6,
+      "avg_occupancy": 0.4637,
+      "avg_price_index": 86.38,
+      "avg_room_price": 125246.0,
+      "total_rooms_sold": 12280,
+      "total_unsold": 13419,
+      "avg_facility_score": 5.42,
+      "currency": "KRW"
+    },
+    {
+      "country": "香港",
+      "hotels": 8,
+      "avg_occupancy": 0.6143,
+      "avg_price_index": 94.54,
+      "avg_room_price": 898.0,
+      "total_rooms_sold": 27599,
+      "total_unsold": 17568,
+      "avg_facility_score": 5.24,
+      "currency": "HKD"
+    },
+    {
+      "country": "馬來西亞",
+      "hotels": 2,
+      "avg_occupancy": 0.6165,
+      "avg_price_index": 108.51,
+      "avg_room_price": 326.0,
+      "total_rooms_sold": 8865,
+      "total_unsold": 5612,
+      "avg_facility_score": 7.25,
+      "currency": "MYR"
+    }
+  ]
+}
