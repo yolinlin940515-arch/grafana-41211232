@@ -1,0 +1,3071 @@
+[
+  {
+    "date_str": "2026-10-01",
+    "country": "中國大陸",
+    "avg_occupancy": 0.6322,
+    "avg_price_index": 110.32,
+    "total_sold": 736,
+    "total_unsold": 456,
+    "avg_price": 651.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "印尼",
+    "avg_occupancy": 0.4956,
+    "avg_price_index": 75.81,
+    "total_sold": 99,
+    "total_unsold": 165,
+    "avg_price": 712644.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "台灣",
+    "avg_occupancy": 0.5292,
+    "avg_price_index": 94.9,
+    "total_sold": 5810,
+    "total_unsold": 5084,
+    "avg_price": 3037.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "新加坡",
+    "avg_occupancy": 0.5288,
+    "avg_price_index": 100.12,
+    "total_sold": 1826,
+    "total_unsold": 1626,
+    "avg_price": 200.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "日本",
+    "avg_occupancy": 0.5413,
+    "avg_price_index": 97.25,
+    "total_sold": 1820,
+    "total_unsold": 1405,
+    "avg_price": 15074.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "泰國",
+    "avg_occupancy": 0.5719,
+    "avg_price_index": 105.47,
+    "total_sold": 1330,
+    "total_unsold": 947,
+    "avg_price": 3059.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4823,
+    "avg_price_index": 79.75,
+    "total_sold": 96,
+    "total_unsold": 110,
+    "avg_price": 3350.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "越南",
+    "avg_occupancy": 0.6388,
+    "avg_price_index": 92.53,
+    "total_sold": 300,
+    "total_unsold": 146,
+    "avg_price": 1573004.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "韓國",
+    "avg_occupancy": 0.4003,
+    "avg_price_index": 87.76,
+    "total_sold": 339,
+    "total_unsold": 490,
+    "avg_price": 127247.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "香港",
+    "avg_occupancy": 0.6974,
+    "avg_price_index": 101.34,
+    "total_sold": 1014,
+    "total_unsold": 443,
+    "avg_price": 963.0
+  },
+  {
+    "date_str": "2026-10-01",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5834,
+    "avg_price_index": 113.33,
+    "total_sold": 281,
+    "total_unsold": 186,
+    "avg_price": 340.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5236,
+    "avg_price_index": 109.49,
+    "total_sold": 608,
+    "total_unsold": 584,
+    "avg_price": 646.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "印尼",
+    "avg_occupancy": 0.5046,
+    "avg_price_index": 68.14,
+    "total_sold": 103,
+    "total_unsold": 161,
+    "avg_price": 640480.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "台灣",
+    "avg_occupancy": 0.5521,
+    "avg_price_index": 93.98,
+    "total_sold": 6068,
+    "total_unsold": 4826,
+    "avg_price": 3007.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "新加坡",
+    "avg_occupancy": 0.5563,
+    "avg_price_index": 99.94,
+    "total_sold": 1917,
+    "total_unsold": 1535,
+    "avg_price": 200.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "日本",
+    "avg_occupancy": 0.5653,
+    "avg_price_index": 93.96,
+    "total_sold": 1848,
+    "total_unsold": 1377,
+    "avg_price": 14564.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "泰國",
+    "avg_occupancy": 0.5908,
+    "avg_price_index": 104.56,
+    "total_sold": 1382,
+    "total_unsold": 895,
+    "avg_price": 3032.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "菲律賓",
+    "avg_occupancy": 0.3934,
+    "avg_price_index": 82.68,
+    "total_sold": 88,
+    "total_unsold": 118,
+    "avg_price": 3472.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "越南",
+    "avg_occupancy": 0.6079,
+    "avg_price_index": 93.25,
+    "total_sold": 281,
+    "total_unsold": 165,
+    "avg_price": 1585244.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "韓國",
+    "avg_occupancy": 0.4356,
+    "avg_price_index": 88.13,
+    "total_sold": 357,
+    "total_unsold": 472,
+    "avg_price": 127791.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "香港",
+    "avg_occupancy": 0.6104,
+    "avg_price_index": 90.96,
+    "total_sold": 881,
+    "total_unsold": 576,
+    "avg_price": 864.0
+  },
+  {
+    "date_str": "2026-10-02",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5811,
+    "avg_price_index": 114.0,
+    "total_sold": 281,
+    "total_unsold": 186,
+    "avg_price": 342.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "中國大陸",
+    "avg_occupancy": 0.6537,
+    "avg_price_index": 117.92,
+    "total_sold": 768,
+    "total_unsold": 424,
+    "avg_price": 696.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "印尼",
+    "avg_occupancy": 0.4785,
+    "avg_price_index": 73.44,
+    "total_sold": 108,
+    "total_unsold": 156,
+    "avg_price": 690394.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "台灣",
+    "avg_occupancy": 0.5576,
+    "avg_price_index": 98.19,
+    "total_sold": 6143,
+    "total_unsold": 4751,
+    "avg_price": 3142.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "新加坡",
+    "avg_occupancy": 0.559,
+    "avg_price_index": 101.44,
+    "total_sold": 1897,
+    "total_unsold": 1555,
+    "avg_price": 203.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "日本",
+    "avg_occupancy": 0.5979,
+    "avg_price_index": 97.85,
+    "total_sold": 1997,
+    "total_unsold": 1228,
+    "avg_price": 15166.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "泰國",
+    "avg_occupancy": 0.5624,
+    "avg_price_index": 105.32,
+    "total_sold": 1314,
+    "total_unsold": 963,
+    "avg_price": 3054.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4386,
+    "avg_price_index": 84.5,
+    "total_sold": 100,
+    "total_unsold": 106,
+    "avg_price": 3549.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "越南",
+    "avg_occupancy": 0.5975,
+    "avg_price_index": 96.92,
+    "total_sold": 275,
+    "total_unsold": 171,
+    "avg_price": 1647723.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "韓國",
+    "avg_occupancy": 0.5073,
+    "avg_price_index": 100.79,
+    "total_sold": 430,
+    "total_unsold": 399,
+    "avg_price": 146140.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "香港",
+    "avg_occupancy": 0.6562,
+    "avg_price_index": 94.78,
+    "total_sold": 953,
+    "total_unsold": 504,
+    "avg_price": 900.0
+  },
+  {
+    "date_str": "2026-10-03",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.596,
+    "avg_price_index": 102.0,
+    "total_sold": 259,
+    "total_unsold": 208,
+    "avg_price": 306.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5154,
+    "avg_price_index": 104.43,
+    "total_sold": 620,
+    "total_unsold": 572,
+    "avg_price": 616.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "印尼",
+    "avg_occupancy": 0.4924,
+    "avg_price_index": 68.7,
+    "total_sold": 110,
+    "total_unsold": 154,
+    "avg_price": 645830.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "台灣",
+    "avg_occupancy": 0.5842,
+    "avg_price_index": 97.43,
+    "total_sold": 6416,
+    "total_unsold": 4478,
+    "avg_price": 3118.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "新加坡",
+    "avg_occupancy": 0.5788,
+    "avg_price_index": 103.56,
+    "total_sold": 1993,
+    "total_unsold": 1459,
+    "avg_price": 207.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "日本",
+    "avg_occupancy": 0.5472,
+    "avg_price_index": 98.04,
+    "total_sold": 1792,
+    "total_unsold": 1433,
+    "avg_price": 15197.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "泰國",
+    "avg_occupancy": 0.5508,
+    "avg_price_index": 102.68,
+    "total_sold": 1252,
+    "total_unsold": 1025,
+    "avg_price": 2978.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5967,
+    "avg_price_index": 88.13,
+    "total_sold": 138,
+    "total_unsold": 68,
+    "avg_price": 3702.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "越南",
+    "avg_occupancy": 0.5656,
+    "avg_price_index": 88.82,
+    "total_sold": 262,
+    "total_unsold": 184,
+    "avg_price": 1509869.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "韓國",
+    "avg_occupancy": 0.4764,
+    "avg_price_index": 89.14,
+    "total_sold": 391,
+    "total_unsold": 438,
+    "avg_price": 129253.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "香港",
+    "avg_occupancy": 0.6606,
+    "avg_price_index": 95.08,
+    "total_sold": 962,
+    "total_unsold": 495,
+    "avg_price": 903.0
+  },
+  {
+    "date_str": "2026-10-04",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6436,
+    "avg_price_index": 101.0,
+    "total_sold": 293,
+    "total_unsold": 174,
+    "avg_price": 303.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "中國大陸",
+    "avg_occupancy": 0.571,
+    "avg_price_index": 107.02,
+    "total_sold": 683,
+    "total_unsold": 509,
+    "avg_price": 631.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "印尼",
+    "avg_occupancy": 0.4659,
+    "avg_price_index": 67.99,
+    "total_sold": 90,
+    "total_unsold": 174,
+    "avg_price": 639080.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "台灣",
+    "avg_occupancy": 0.548,
+    "avg_price_index": 94.15,
+    "total_sold": 6062,
+    "total_unsold": 4832,
+    "avg_price": 3013.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "新加坡",
+    "avg_occupancy": 0.5277,
+    "avg_price_index": 101.1,
+    "total_sold": 1865,
+    "total_unsold": 1587,
+    "avg_price": 202.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "日本",
+    "avg_occupancy": 0.575,
+    "avg_price_index": 96.85,
+    "total_sold": 1933,
+    "total_unsold": 1292,
+    "avg_price": 15011.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "泰國",
+    "avg_occupancy": 0.5804,
+    "avg_price_index": 104.44,
+    "total_sold": 1330,
+    "total_unsold": 947,
+    "avg_price": 3029.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4257,
+    "avg_price_index": 77.4,
+    "total_sold": 101,
+    "total_unsold": 105,
+    "avg_price": 3251.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "越南",
+    "avg_occupancy": 0.5357,
+    "avg_price_index": 92.32,
+    "total_sold": 238,
+    "total_unsold": 208,
+    "avg_price": 1569408.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "韓國",
+    "avg_occupancy": 0.5319,
+    "avg_price_index": 92.82,
+    "total_sold": 456,
+    "total_unsold": 373,
+    "avg_price": 134595.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "香港",
+    "avg_occupancy": 0.6018,
+    "avg_price_index": 91.49,
+    "total_sold": 876,
+    "total_unsold": 581,
+    "avg_price": 869.0
+  },
+  {
+    "date_str": "2026-10-05",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6559,
+    "avg_price_index": 105.5,
+    "total_sold": 303,
+    "total_unsold": 164,
+    "avg_price": 316.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "中國大陸",
+    "avg_occupancy": 0.604,
+    "avg_price_index": 100.24,
+    "total_sold": 680,
+    "total_unsold": 512,
+    "avg_price": 591.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "印尼",
+    "avg_occupancy": 0.5645,
+    "avg_price_index": 71.14,
+    "total_sold": 146,
+    "total_unsold": 118,
+    "avg_price": 668690.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "台灣",
+    "avg_occupancy": 0.5325,
+    "avg_price_index": 94.79,
+    "total_sold": 5771,
+    "total_unsold": 5123,
+    "avg_price": 3033.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "新加坡",
+    "avg_occupancy": 0.5423,
+    "avg_price_index": 103.04,
+    "total_sold": 1914,
+    "total_unsold": 1538,
+    "avg_price": 206.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "日本",
+    "avg_occupancy": 0.58,
+    "avg_price_index": 97.44,
+    "total_sold": 1864,
+    "total_unsold": 1361,
+    "avg_price": 15103.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "泰國",
+    "avg_occupancy": 0.5756,
+    "avg_price_index": 104.65,
+    "total_sold": 1363,
+    "total_unsold": 914,
+    "avg_price": 3035.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5248,
+    "avg_price_index": 76.14,
+    "total_sold": 120,
+    "total_unsold": 86,
+    "avg_price": 3198.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "越南",
+    "avg_occupancy": 0.5492,
+    "avg_price_index": 85.69,
+    "total_sold": 239,
+    "total_unsold": 207,
+    "avg_price": 1456776.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "韓國",
+    "avg_occupancy": 0.4833,
+    "avg_price_index": 84.14,
+    "total_sold": 420,
+    "total_unsold": 409,
+    "avg_price": 122000.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "香港",
+    "avg_occupancy": 0.6278,
+    "avg_price_index": 96.49,
+    "total_sold": 894,
+    "total_unsold": 563,
+    "avg_price": 917.0
+  },
+  {
+    "date_str": "2026-10-06",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6254,
+    "avg_price_index": 99.34,
+    "total_sold": 281,
+    "total_unsold": 186,
+    "avg_price": 298.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "中國大陸",
+    "avg_occupancy": 0.6176,
+    "avg_price_index": 105.64,
+    "total_sold": 694,
+    "total_unsold": 498,
+    "avg_price": 623.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "印尼",
+    "avg_occupancy": 0.5854,
+    "avg_price_index": 67.85,
+    "total_sold": 147,
+    "total_unsold": 117,
+    "avg_price": 637798.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "台灣",
+    "avg_occupancy": 0.5432,
+    "avg_price_index": 95.8,
+    "total_sold": 5965,
+    "total_unsold": 4929,
+    "avg_price": 3066.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "新加坡",
+    "avg_occupancy": 0.5297,
+    "avg_price_index": 100.28,
+    "total_sold": 1821,
+    "total_unsold": 1631,
+    "avg_price": 201.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "日本",
+    "avg_occupancy": 0.5458,
+    "avg_price_index": 95.81,
+    "total_sold": 1802,
+    "total_unsold": 1423,
+    "avg_price": 14851.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "泰國",
+    "avg_occupancy": 0.5793,
+    "avg_price_index": 100.13,
+    "total_sold": 1325,
+    "total_unsold": 952,
+    "avg_price": 2904.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5972,
+    "avg_price_index": 86.3,
+    "total_sold": 133,
+    "total_unsold": 73,
+    "avg_price": 3624.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "越南",
+    "avg_occupancy": 0.6051,
+    "avg_price_index": 90.96,
+    "total_sold": 279,
+    "total_unsold": 167,
+    "avg_price": 1546358.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "韓國",
+    "avg_occupancy": 0.4347,
+    "avg_price_index": 83.8,
+    "total_sold": 388,
+    "total_unsold": 441,
+    "avg_price": 121510.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "香港",
+    "avg_occupancy": 0.635,
+    "avg_price_index": 88.34,
+    "total_sold": 922,
+    "total_unsold": 535,
+    "avg_price": 839.0
+  },
+  {
+    "date_str": "2026-10-07",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5764,
+    "avg_price_index": 105.33,
+    "total_sold": 268,
+    "total_unsold": 199,
+    "avg_price": 316.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4619,
+    "avg_price_index": 97.36,
+    "total_sold": 538,
+    "total_unsold": 654,
+    "avg_price": 574.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "印尼",
+    "avg_occupancy": 0.5183,
+    "avg_price_index": 72.8,
+    "total_sold": 138,
+    "total_unsold": 126,
+    "avg_price": 684292.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "台灣",
+    "avg_occupancy": 0.5613,
+    "avg_price_index": 95.36,
+    "total_sold": 6104,
+    "total_unsold": 4790,
+    "avg_price": 3051.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "新加坡",
+    "avg_occupancy": 0.5488,
+    "avg_price_index": 100.98,
+    "total_sold": 1878,
+    "total_unsold": 1574,
+    "avg_price": 202.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "日本",
+    "avg_occupancy": 0.5801,
+    "avg_price_index": 98.25,
+    "total_sold": 1946,
+    "total_unsold": 1279,
+    "avg_price": 15229.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "泰國",
+    "avg_occupancy": 0.5326,
+    "avg_price_index": 99.52,
+    "total_sold": 1239,
+    "total_unsold": 1038,
+    "avg_price": 2886.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5271,
+    "avg_price_index": 85.08,
+    "total_sold": 113,
+    "total_unsold": 93,
+    "avg_price": 3574.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "越南",
+    "avg_occupancy": 0.5897,
+    "avg_price_index": 97.79,
+    "total_sold": 254,
+    "total_unsold": 192,
+    "avg_price": 1662388.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "韓國",
+    "avg_occupancy": 0.4918,
+    "avg_price_index": 84.31,
+    "total_sold": 431,
+    "total_unsold": 398,
+    "avg_price": 122246.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "香港",
+    "avg_occupancy": 0.5849,
+    "avg_price_index": 91.17,
+    "total_sold": 840,
+    "total_unsold": 617,
+    "avg_price": 866.0
+  },
+  {
+    "date_str": "2026-10-08",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6925,
+    "avg_price_index": 108.67,
+    "total_sold": 321,
+    "total_unsold": 146,
+    "avg_price": 326.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4917,
+    "avg_price_index": 103.32,
+    "total_sold": 571,
+    "total_unsold": 621,
+    "avg_price": 610.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "印尼",
+    "avg_occupancy": 0.3751,
+    "avg_price_index": 77.0,
+    "total_sold": 83,
+    "total_unsold": 181,
+    "avg_price": 723790.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "台灣",
+    "avg_occupancy": 0.6449,
+    "avg_price_index": 101.41,
+    "total_sold": 7030,
+    "total_unsold": 3864,
+    "avg_price": 3245.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "新加坡",
+    "avg_occupancy": 0.5458,
+    "avg_price_index": 98.66,
+    "total_sold": 1825,
+    "total_unsold": 1627,
+    "avg_price": 197.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "日本",
+    "avg_occupancy": 0.5746,
+    "avg_price_index": 95.83,
+    "total_sold": 1875,
+    "total_unsold": 1350,
+    "avg_price": 14853.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "泰國",
+    "avg_occupancy": 0.5356,
+    "avg_price_index": 102.3,
+    "total_sold": 1249,
+    "total_unsold": 1028,
+    "avg_price": 2967.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4001,
+    "avg_price_index": 76.13,
+    "total_sold": 85,
+    "total_unsold": 121,
+    "avg_price": 3198.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "越南",
+    "avg_occupancy": 0.4858,
+    "avg_price_index": 87.53,
+    "total_sold": 238,
+    "total_unsold": 208,
+    "avg_price": 1488072.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "韓國",
+    "avg_occupancy": 0.5292,
+    "avg_price_index": 89.82,
+    "total_sold": 437,
+    "total_unsold": 392,
+    "avg_price": 130243.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "香港",
+    "avg_occupancy": 0.5706,
+    "avg_price_index": 96.13,
+    "total_sold": 820,
+    "total_unsold": 637,
+    "avg_price": 913.0
+  },
+  {
+    "date_str": "2026-10-09",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5847,
+    "avg_price_index": 99.0,
+    "total_sold": 264,
+    "total_unsold": 203,
+    "avg_price": 297.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4741,
+    "avg_price_index": 105.54,
+    "total_sold": 579,
+    "total_unsold": 613,
+    "avg_price": 623.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "印尼",
+    "avg_occupancy": 0.4807,
+    "avg_price_index": 74.22,
+    "total_sold": 109,
+    "total_unsold": 155,
+    "avg_price": 697602.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "台灣",
+    "avg_occupancy": 0.6768,
+    "avg_price_index": 108.03,
+    "total_sold": 7436,
+    "total_unsold": 3458,
+    "avg_price": 3457.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "新加坡",
+    "avg_occupancy": 0.5723,
+    "avg_price_index": 104.76,
+    "total_sold": 2011,
+    "total_unsold": 1441,
+    "avg_price": 210.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "日本",
+    "avg_occupancy": 0.5678,
+    "avg_price_index": 100.57,
+    "total_sold": 1857,
+    "total_unsold": 1368,
+    "avg_price": 15588.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "泰國",
+    "avg_occupancy": 0.5508,
+    "avg_price_index": 103.71,
+    "total_sold": 1279,
+    "total_unsold": 998,
+    "avg_price": 3007.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5687,
+    "avg_price_index": 89.22,
+    "total_sold": 129,
+    "total_unsold": 77,
+    "avg_price": 3748.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "越南",
+    "avg_occupancy": 0.4922,
+    "avg_price_index": 95.86,
+    "total_sold": 226,
+    "total_unsold": 220,
+    "avg_price": 1629663.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "韓國",
+    "avg_occupancy": 0.4932,
+    "avg_price_index": 89.8,
+    "total_sold": 424,
+    "total_unsold": 405,
+    "avg_price": 130208.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "香港",
+    "avg_occupancy": 0.6269,
+    "avg_price_index": 100.08,
+    "total_sold": 917,
+    "total_unsold": 540,
+    "avg_price": 951.0
+  },
+  {
+    "date_str": "2026-10-10",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6597,
+    "avg_price_index": 108.5,
+    "total_sold": 310,
+    "total_unsold": 157,
+    "avg_price": 326.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5056,
+    "avg_price_index": 109.59,
+    "total_sold": 591,
+    "total_unsold": 601,
+    "avg_price": 647.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "印尼",
+    "avg_occupancy": 0.5033,
+    "avg_price_index": 69.97,
+    "total_sold": 90,
+    "total_unsold": 174,
+    "avg_price": 657746.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "台灣",
+    "avg_occupancy": 0.5611,
+    "avg_price_index": 97.24,
+    "total_sold": 6144,
+    "total_unsold": 4750,
+    "avg_price": 3112.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "新加坡",
+    "avg_occupancy": 0.5887,
+    "avg_price_index": 103.88,
+    "total_sold": 2028,
+    "total_unsold": 1424,
+    "avg_price": 208.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "日本",
+    "avg_occupancy": 0.6229,
+    "avg_price_index": 101.2,
+    "total_sold": 2029,
+    "total_unsold": 1196,
+    "avg_price": 15686.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "泰國",
+    "avg_occupancy": 0.5413,
+    "avg_price_index": 103.17,
+    "total_sold": 1242,
+    "total_unsold": 1035,
+    "avg_price": 2992.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "菲律賓",
+    "avg_occupancy": 0.3689,
+    "avg_price_index": 83.64,
+    "total_sold": 93,
+    "total_unsold": 113,
+    "avg_price": 3513.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "越南",
+    "avg_occupancy": 0.5276,
+    "avg_price_index": 99.08,
+    "total_sold": 260,
+    "total_unsold": 186,
+    "avg_price": 1684363.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "韓國",
+    "avg_occupancy": 0.4705,
+    "avg_price_index": 88.78,
+    "total_sold": 419,
+    "total_unsold": 410,
+    "avg_price": 128727.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "香港",
+    "avg_occupancy": 0.662,
+    "avg_price_index": 95.16,
+    "total_sold": 951,
+    "total_unsold": 506,
+    "avg_price": 904.0
+  },
+  {
+    "date_str": "2026-10-11",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5587,
+    "avg_price_index": 110.5,
+    "total_sold": 259,
+    "total_unsold": 208,
+    "avg_price": 332.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "中國大陸",
+    "avg_occupancy": 0.519,
+    "avg_price_index": 102.83,
+    "total_sold": 629,
+    "total_unsold": 563,
+    "avg_price": 607.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "印尼",
+    "avg_occupancy": 0.5515,
+    "avg_price_index": 70.53,
+    "total_sold": 132,
+    "total_unsold": 132,
+    "avg_price": 662963.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "台灣",
+    "avg_occupancy": 0.5378,
+    "avg_price_index": 93.39,
+    "total_sold": 5933,
+    "total_unsold": 4961,
+    "avg_price": 2988.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "新加坡",
+    "avg_occupancy": 0.5379,
+    "avg_price_index": 102.26,
+    "total_sold": 1884,
+    "total_unsold": 1568,
+    "avg_price": 205.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "日本",
+    "avg_occupancy": 0.6604,
+    "avg_price_index": 107.54,
+    "total_sold": 2197,
+    "total_unsold": 1028,
+    "avg_price": 16669.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "泰國",
+    "avg_occupancy": 0.54,
+    "avg_price_index": 103.68,
+    "total_sold": 1253,
+    "total_unsold": 1024,
+    "avg_price": 3007.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4298,
+    "avg_price_index": 81.94,
+    "total_sold": 92,
+    "total_unsold": 114,
+    "avg_price": 3442.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "越南",
+    "avg_occupancy": 0.4745,
+    "avg_price_index": 88.87,
+    "total_sold": 219,
+    "total_unsold": 227,
+    "avg_price": 1510877.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "韓國",
+    "avg_occupancy": 0.4166,
+    "avg_price_index": 86.19,
+    "total_sold": 370,
+    "total_unsold": 459,
+    "avg_price": 124980.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "香港",
+    "avg_occupancy": 0.6185,
+    "avg_price_index": 88.01,
+    "total_sold": 896,
+    "total_unsold": 561,
+    "avg_price": 836.0
+  },
+  {
+    "date_str": "2026-10-12",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6668,
+    "avg_price_index": 107.0,
+    "total_sold": 321,
+    "total_unsold": 146,
+    "avg_price": 321.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5114,
+    "avg_price_index": 102.28,
+    "total_sold": 563,
+    "total_unsold": 629,
+    "avg_price": 603.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "印尼",
+    "avg_occupancy": 0.5225,
+    "avg_price_index": 78.28,
+    "total_sold": 144,
+    "total_unsold": 120,
+    "avg_price": 735860.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "台灣",
+    "avg_occupancy": 0.5365,
+    "avg_price_index": 94.69,
+    "total_sold": 5875,
+    "total_unsold": 5019,
+    "avg_price": 3030.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "新加坡",
+    "avg_occupancy": 0.5512,
+    "avg_price_index": 101.94,
+    "total_sold": 1925,
+    "total_unsold": 1527,
+    "avg_price": 204.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "日本",
+    "avg_occupancy": 0.5355,
+    "avg_price_index": 97.11,
+    "total_sold": 1745,
+    "total_unsold": 1480,
+    "avg_price": 15052.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "泰國",
+    "avg_occupancy": 0.5854,
+    "avg_price_index": 110.35,
+    "total_sold": 1369,
+    "total_unsold": 908,
+    "avg_price": 3200.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5439,
+    "avg_price_index": 79.14,
+    "total_sold": 121,
+    "total_unsold": 85,
+    "avg_price": 3324.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "越南",
+    "avg_occupancy": 0.5391,
+    "avg_price_index": 95.95,
+    "total_sold": 251,
+    "total_unsold": 195,
+    "avg_price": 1631175.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "韓國",
+    "avg_occupancy": 0.3982,
+    "avg_price_index": 80.57,
+    "total_sold": 349,
+    "total_unsold": 480,
+    "avg_price": 116827.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "香港",
+    "avg_occupancy": 0.5315,
+    "avg_price_index": 89.17,
+    "total_sold": 773,
+    "total_unsold": 684,
+    "avg_price": 847.0
+  },
+  {
+    "date_str": "2026-10-13",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6438,
+    "avg_price_index": 114.5,
+    "total_sold": 300,
+    "total_unsold": 167,
+    "avg_price": 344.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5095,
+    "avg_price_index": 98.33,
+    "total_sold": 616,
+    "total_unsold": 576,
+    "avg_price": 580.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "印尼",
+    "avg_occupancy": 0.5696,
+    "avg_price_index": 69.95,
+    "total_sold": 140,
+    "total_unsold": 124,
+    "avg_price": 657551.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "台灣",
+    "avg_occupancy": 0.5488,
+    "avg_price_index": 96.38,
+    "total_sold": 6106,
+    "total_unsold": 4788,
+    "avg_price": 3084.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "新加坡",
+    "avg_occupancy": 0.5528,
+    "avg_price_index": 101.44,
+    "total_sold": 1960,
+    "total_unsold": 1492,
+    "avg_price": 203.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "日本",
+    "avg_occupancy": 0.5478,
+    "avg_price_index": 99.15,
+    "total_sold": 1810,
+    "total_unsold": 1415,
+    "avg_price": 15369.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "泰國",
+    "avg_occupancy": 0.5722,
+    "avg_price_index": 101.16,
+    "total_sold": 1313,
+    "total_unsold": 964,
+    "avg_price": 2934.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4607,
+    "avg_price_index": 87.43,
+    "total_sold": 120,
+    "total_unsold": 86,
+    "avg_price": 3672.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "越南",
+    "avg_occupancy": 0.5535,
+    "avg_price_index": 89.68,
+    "total_sold": 258,
+    "total_unsold": 188,
+    "avg_price": 1524443.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "韓國",
+    "avg_occupancy": 0.5046,
+    "avg_price_index": 84.49,
+    "total_sold": 430,
+    "total_unsold": 399,
+    "avg_price": 122508.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "香港",
+    "avg_occupancy": 0.6538,
+    "avg_price_index": 93.03,
+    "total_sold": 950,
+    "total_unsold": 507,
+    "avg_price": 884.0
+  },
+  {
+    "date_str": "2026-10-14",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5759,
+    "avg_price_index": 108.5,
+    "total_sold": 278,
+    "total_unsold": 189,
+    "avg_price": 326.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4967,
+    "avg_price_index": 102.4,
+    "total_sold": 562,
+    "total_unsold": 630,
+    "avg_price": 604.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "印尼",
+    "avg_occupancy": 0.4498,
+    "avg_price_index": 75.5,
+    "total_sold": 116,
+    "total_unsold": 148,
+    "avg_price": 709724.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "台灣",
+    "avg_occupancy": 0.5459,
+    "avg_price_index": 94.53,
+    "total_sold": 5944,
+    "total_unsold": 4950,
+    "avg_price": 3025.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "新加坡",
+    "avg_occupancy": 0.5109,
+    "avg_price_index": 101.9,
+    "total_sold": 1802,
+    "total_unsold": 1650,
+    "avg_price": 204.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "日本",
+    "avg_occupancy": 0.5629,
+    "avg_price_index": 97.15,
+    "total_sold": 1863,
+    "total_unsold": 1362,
+    "avg_price": 15059.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "泰國",
+    "avg_occupancy": 0.5968,
+    "avg_price_index": 103.34,
+    "total_sold": 1386,
+    "total_unsold": 891,
+    "avg_price": 2997.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4125,
+    "avg_price_index": 84.16,
+    "total_sold": 89,
+    "total_unsold": 117,
+    "avg_price": 3535.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "越南",
+    "avg_occupancy": 0.5804,
+    "avg_price_index": 89.52,
+    "total_sold": 275,
+    "total_unsold": 171,
+    "avg_price": 1521897.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "韓國",
+    "avg_occupancy": 0.4704,
+    "avg_price_index": 85.62,
+    "total_sold": 383,
+    "total_unsold": 446,
+    "avg_price": 124146.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "香港",
+    "avg_occupancy": 0.6237,
+    "avg_price_index": 94.13,
+    "total_sold": 899,
+    "total_unsold": 558,
+    "avg_price": 894.0
+  },
+  {
+    "date_str": "2026-10-15",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6647,
+    "avg_price_index": 105.84,
+    "total_sold": 302,
+    "total_unsold": 165,
+    "avg_price": 318.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5099,
+    "avg_price_index": 96.3,
+    "total_sold": 587,
+    "total_unsold": 605,
+    "avg_price": 568.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "印尼",
+    "avg_occupancy": 0.5492,
+    "avg_price_index": 69.37,
+    "total_sold": 131,
+    "total_unsold": 133,
+    "avg_price": 652067.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "台灣",
+    "avg_occupancy": 0.5479,
+    "avg_price_index": 94.42,
+    "total_sold": 6043,
+    "total_unsold": 4851,
+    "avg_price": 3021.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "新加坡",
+    "avg_occupancy": 0.5476,
+    "avg_price_index": 102.88,
+    "total_sold": 1885,
+    "total_unsold": 1567,
+    "avg_price": 206.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "日本",
+    "avg_occupancy": 0.5387,
+    "avg_price_index": 96.81,
+    "total_sold": 1797,
+    "total_unsold": 1428,
+    "avg_price": 15006.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "泰國",
+    "avg_occupancy": 0.5525,
+    "avg_price_index": 103.35,
+    "total_sold": 1265,
+    "total_unsold": 1012,
+    "avg_price": 2997.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4303,
+    "avg_price_index": 75.96,
+    "total_sold": 87,
+    "total_unsold": 119,
+    "avg_price": 3190.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "越南",
+    "avg_occupancy": 0.536,
+    "avg_price_index": 92.84,
+    "total_sold": 261,
+    "total_unsold": 185,
+    "avg_price": 1578248.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "韓國",
+    "avg_occupancy": 0.4195,
+    "avg_price_index": 83.54,
+    "total_sold": 336,
+    "total_unsold": 493,
+    "avg_price": 121133.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "香港",
+    "avg_occupancy": 0.5706,
+    "avg_price_index": 93.63,
+    "total_sold": 828,
+    "total_unsold": 629,
+    "avg_price": 890.0
+  },
+  {
+    "date_str": "2026-10-16",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5364,
+    "avg_price_index": 113.34,
+    "total_sold": 248,
+    "total_unsold": 219,
+    "avg_price": 340.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4967,
+    "avg_price_index": 104.26,
+    "total_sold": 603,
+    "total_unsold": 589,
+    "avg_price": 615.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "印尼",
+    "avg_occupancy": 0.4791,
+    "avg_price_index": 65.61,
+    "total_sold": 100,
+    "total_unsold": 164,
+    "avg_price": 616763.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "台灣",
+    "avg_occupancy": 0.5707,
+    "avg_price_index": 96.56,
+    "total_sold": 6308,
+    "total_unsold": 4586,
+    "avg_price": 3090.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "新加坡",
+    "avg_occupancy": 0.57,
+    "avg_price_index": 103.12,
+    "total_sold": 1985,
+    "total_unsold": 1467,
+    "avg_price": 206.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "日本",
+    "avg_occupancy": 0.6116,
+    "avg_price_index": 96.16,
+    "total_sold": 2023,
+    "total_unsold": 1202,
+    "avg_price": 14905.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "泰國",
+    "avg_occupancy": 0.5687,
+    "avg_price_index": 105.68,
+    "total_sold": 1318,
+    "total_unsold": 959,
+    "avg_price": 3065.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4816,
+    "avg_price_index": 89.58,
+    "total_sold": 119,
+    "total_unsold": 87,
+    "avg_price": 3762.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "越南",
+    "avg_occupancy": 0.5472,
+    "avg_price_index": 94.89,
+    "total_sold": 243,
+    "total_unsold": 203,
+    "avg_price": 1613038.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "韓國",
+    "avg_occupancy": 0.4812,
+    "avg_price_index": 88.81,
+    "total_sold": 394,
+    "total_unsold": 435,
+    "avg_price": 128768.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "香港",
+    "avg_occupancy": 0.6105,
+    "avg_price_index": 97.63,
+    "total_sold": 900,
+    "total_unsold": 557,
+    "avg_price": 928.0
+  },
+  {
+    "date_str": "2026-10-17",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6975,
+    "avg_price_index": 106.0,
+    "total_sold": 326,
+    "total_unsold": 141,
+    "avg_price": 318.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5158,
+    "avg_price_index": 110.05,
+    "total_sold": 587,
+    "total_unsold": 605,
+    "avg_price": 649.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "印尼",
+    "avg_occupancy": 0.4917,
+    "avg_price_index": 73.04,
+    "total_sold": 89,
+    "total_unsold": 175,
+    "avg_price": 686559.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "台灣",
+    "avg_occupancy": 0.5682,
+    "avg_price_index": 96.65,
+    "total_sold": 6223,
+    "total_unsold": 4671,
+    "avg_price": 3093.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "新加坡",
+    "avg_occupancy": 0.5713,
+    "avg_price_index": 102.42,
+    "total_sold": 1960,
+    "total_unsold": 1492,
+    "avg_price": 205.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "日本",
+    "avg_occupancy": 0.5879,
+    "avg_price_index": 99.62,
+    "total_sold": 1945,
+    "total_unsold": 1280,
+    "avg_price": 15441.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "泰國",
+    "avg_occupancy": 0.5286,
+    "avg_price_index": 102.86,
+    "total_sold": 1240,
+    "total_unsold": 1037,
+    "avg_price": 2983.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5661,
+    "avg_price_index": 94.11,
+    "total_sold": 123,
+    "total_unsold": 83,
+    "avg_price": 3952.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "越南",
+    "avg_occupancy": 0.6229,
+    "avg_price_index": 94.6,
+    "total_sold": 299,
+    "total_unsold": 147,
+    "avg_price": 1608137.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "韓國",
+    "avg_occupancy": 0.4708,
+    "avg_price_index": 88.43,
+    "total_sold": 417,
+    "total_unsold": 412,
+    "avg_price": 128225.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "香港",
+    "avg_occupancy": 0.6871,
+    "avg_price_index": 109.45,
+    "total_sold": 994,
+    "total_unsold": 463,
+    "avg_price": 1040.0
+  },
+  {
+    "date_str": "2026-10-18",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6524,
+    "avg_price_index": 107.83,
+    "total_sold": 290,
+    "total_unsold": 177,
+    "avg_price": 324.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5156,
+    "avg_price_index": 105.57,
+    "total_sold": 606,
+    "total_unsold": 586,
+    "avg_price": 623.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "印尼",
+    "avg_occupancy": 0.5105,
+    "avg_price_index": 78.94,
+    "total_sold": 118,
+    "total_unsold": 146,
+    "avg_price": 742026.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "台灣",
+    "avg_occupancy": 0.538,
+    "avg_price_index": 94.36,
+    "total_sold": 5851,
+    "total_unsold": 5043,
+    "avg_price": 3019.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "新加坡",
+    "avg_occupancy": 0.5212,
+    "avg_price_index": 99.34,
+    "total_sold": 1824,
+    "total_unsold": 1628,
+    "avg_price": 199.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "日本",
+    "avg_occupancy": 0.5662,
+    "avg_price_index": 95.34,
+    "total_sold": 1898,
+    "total_unsold": 1327,
+    "avg_price": 14778.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "泰國",
+    "avg_occupancy": 0.5953,
+    "avg_price_index": 101.21,
+    "total_sold": 1399,
+    "total_unsold": 878,
+    "avg_price": 2935.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "菲律賓",
+    "avg_occupancy": 0.3805,
+    "avg_price_index": 83.8,
+    "total_sold": 89,
+    "total_unsold": 117,
+    "avg_price": 3520.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "越南",
+    "avg_occupancy": 0.6169,
+    "avg_price_index": 90.29,
+    "total_sold": 283,
+    "total_unsold": 163,
+    "avg_price": 1534964.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "韓國",
+    "avg_occupancy": 0.4854,
+    "avg_price_index": 87.94,
+    "total_sold": 420,
+    "total_unsold": 409,
+    "avg_price": 127513.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "香港",
+    "avg_occupancy": 0.6643,
+    "avg_price_index": 104.04,
+    "total_sold": 971,
+    "total_unsold": 486,
+    "avg_price": 988.0
+  },
+  {
+    "date_str": "2026-10-19",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.549,
+    "avg_price_index": 107.34,
+    "total_sold": 254,
+    "total_unsold": 213,
+    "avg_price": 322.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4463,
+    "avg_price_index": 106.03,
+    "total_sold": 500,
+    "total_unsold": 692,
+    "avg_price": 626.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "印尼",
+    "avg_occupancy": 0.5496,
+    "avg_price_index": 72.22,
+    "total_sold": 127,
+    "total_unsold": 137,
+    "avg_price": 678888.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "台灣",
+    "avg_occupancy": 0.5487,
+    "avg_price_index": 94.39,
+    "total_sold": 6091,
+    "total_unsold": 4803,
+    "avg_price": 3021.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "新加坡",
+    "avg_occupancy": 0.5461,
+    "avg_price_index": 98.98,
+    "total_sold": 1878,
+    "total_unsold": 1574,
+    "avg_price": 198.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "日本",
+    "avg_occupancy": 0.5481,
+    "avg_price_index": 96.01,
+    "total_sold": 1838,
+    "total_unsold": 1387,
+    "avg_price": 14882.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "泰國",
+    "avg_occupancy": 0.6227,
+    "avg_price_index": 107.05,
+    "total_sold": 1429,
+    "total_unsold": 848,
+    "avg_price": 3105.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5395,
+    "avg_price_index": 86.67,
+    "total_sold": 117,
+    "total_unsold": 89,
+    "avg_price": 3640.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "越南",
+    "avg_occupancy": 0.5374,
+    "avg_price_index": 99.92,
+    "total_sold": 232,
+    "total_unsold": 214,
+    "avg_price": 1698628.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "韓國",
+    "avg_occupancy": 0.4459,
+    "avg_price_index": 82.95,
+    "total_sold": 412,
+    "total_unsold": 417,
+    "avg_price": 120278.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "香港",
+    "avg_occupancy": 0.5148,
+    "avg_price_index": 88.24,
+    "total_sold": 747,
+    "total_unsold": 710,
+    "avg_price": 838.0
+  },
+  {
+    "date_str": "2026-10-20",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5922,
+    "avg_price_index": 110.5,
+    "total_sold": 267,
+    "total_unsold": 200,
+    "avg_price": 332.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4728,
+    "avg_price_index": 99.05,
+    "total_sold": 552,
+    "total_unsold": 640,
+    "avg_price": 584.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "印尼",
+    "avg_occupancy": 0.4655,
+    "avg_price_index": 69.04,
+    "total_sold": 94,
+    "total_unsold": 170,
+    "avg_price": 649030.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "台灣",
+    "avg_occupancy": 0.5408,
+    "avg_price_index": 94.39,
+    "total_sold": 5920,
+    "total_unsold": 4974,
+    "avg_price": 3020.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "新加坡",
+    "avg_occupancy": 0.5497,
+    "avg_price_index": 99.36,
+    "total_sold": 1858,
+    "total_unsold": 1594,
+    "avg_price": 199.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "日本",
+    "avg_occupancy": 0.5626,
+    "avg_price_index": 95.69,
+    "total_sold": 1868,
+    "total_unsold": 1357,
+    "avg_price": 14832.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "泰國",
+    "avg_occupancy": 0.588,
+    "avg_price_index": 102.8,
+    "total_sold": 1382,
+    "total_unsold": 895,
+    "avg_price": 2981.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5021,
+    "avg_price_index": 82.23,
+    "total_sold": 123,
+    "total_unsold": 83,
+    "avg_price": 3454.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "越南",
+    "avg_occupancy": 0.5439,
+    "avg_price_index": 97.44,
+    "total_sold": 253,
+    "total_unsold": 193,
+    "avg_price": 1656552.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "韓國",
+    "avg_occupancy": 0.4957,
+    "avg_price_index": 84.94,
+    "total_sold": 429,
+    "total_unsold": 400,
+    "avg_price": 123166.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "香港",
+    "avg_occupancy": 0.5656,
+    "avg_price_index": 94.22,
+    "total_sold": 829,
+    "total_unsold": 628,
+    "avg_price": 895.0
+  },
+  {
+    "date_str": "2026-10-21",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5577,
+    "avg_price_index": 110.84,
+    "total_sold": 255,
+    "total_unsold": 212,
+    "avg_price": 332.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5101,
+    "avg_price_index": 102.3,
+    "total_sold": 598,
+    "total_unsold": 594,
+    "avg_price": 604.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "印尼",
+    "avg_occupancy": 0.5263,
+    "avg_price_index": 76.76,
+    "total_sold": 125,
+    "total_unsold": 139,
+    "avg_price": 721594.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "台灣",
+    "avg_occupancy": 0.5432,
+    "avg_price_index": 94.43,
+    "total_sold": 5968,
+    "total_unsold": 4926,
+    "avg_price": 3022.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "新加坡",
+    "avg_occupancy": 0.5557,
+    "avg_price_index": 102.64,
+    "total_sold": 1922,
+    "total_unsold": 1530,
+    "avg_price": 205.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "日本",
+    "avg_occupancy": 0.5559,
+    "avg_price_index": 99.09,
+    "total_sold": 1858,
+    "total_unsold": 1367,
+    "avg_price": 15359.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "泰國",
+    "avg_occupancy": 0.582,
+    "avg_price_index": 102.68,
+    "total_sold": 1359,
+    "total_unsold": 918,
+    "avg_price": 2978.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5075,
+    "avg_price_index": 82.55,
+    "total_sold": 117,
+    "total_unsold": 89,
+    "avg_price": 3467.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "越南",
+    "avg_occupancy": 0.5449,
+    "avg_price_index": 97.34,
+    "total_sold": 233,
+    "total_unsold": 213,
+    "avg_price": 1654715.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "韓國",
+    "avg_occupancy": 0.4339,
+    "avg_price_index": 85.73,
+    "total_sold": 378,
+    "total_unsold": 451,
+    "avg_price": 124315.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "香港",
+    "avg_occupancy": 0.6301,
+    "avg_price_index": 89.3,
+    "total_sold": 917,
+    "total_unsold": 540,
+    "avg_price": 848.0
+  },
+  {
+    "date_str": "2026-10-22",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6153,
+    "avg_price_index": 110.84,
+    "total_sold": 299,
+    "total_unsold": 168,
+    "avg_price": 332.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "中國大陸",
+    "avg_occupancy": 0.504,
+    "avg_price_index": 97.0,
+    "total_sold": 570,
+    "total_unsold": 622,
+    "avg_price": 572.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "印尼",
+    "avg_occupancy": 0.5399,
+    "avg_price_index": 78.02,
+    "total_sold": 131,
+    "total_unsold": 133,
+    "avg_price": 733372.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "台灣",
+    "avg_occupancy": 0.5445,
+    "avg_price_index": 94.61,
+    "total_sold": 6064,
+    "total_unsold": 4830,
+    "avg_price": 3027.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "新加坡",
+    "avg_occupancy": 0.5503,
+    "avg_price_index": 103.16,
+    "total_sold": 1916,
+    "total_unsold": 1536,
+    "avg_price": 206.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "日本",
+    "avg_occupancy": 0.5445,
+    "avg_price_index": 98.36,
+    "total_sold": 1765,
+    "total_unsold": 1460,
+    "avg_price": 15246.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "泰國",
+    "avg_occupancy": 0.6475,
+    "avg_price_index": 110.87,
+    "total_sold": 1478,
+    "total_unsold": 799,
+    "avg_price": 3215.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5021,
+    "avg_price_index": 83.92,
+    "total_sold": 123,
+    "total_unsold": 83,
+    "avg_price": 3524.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "越南",
+    "avg_occupancy": 0.6098,
+    "avg_price_index": 97.12,
+    "total_sold": 271,
+    "total_unsold": 175,
+    "avg_price": 1651111.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "韓國",
+    "avg_occupancy": 0.462,
+    "avg_price_index": 85.84,
+    "total_sold": 373,
+    "total_unsold": 456,
+    "avg_price": 124463.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "香港",
+    "avg_occupancy": 0.6013,
+    "avg_price_index": 90.57,
+    "total_sold": 875,
+    "total_unsold": 582,
+    "avg_price": 860.0
+  },
+  {
+    "date_str": "2026-10-23",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6745,
+    "avg_price_index": 118.84,
+    "total_sold": 320,
+    "total_unsold": 147,
+    "avg_price": 356.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4614,
+    "avg_price_index": 108.74,
+    "total_sold": 561,
+    "total_unsold": 631,
+    "avg_price": 642.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "印尼",
+    "avg_occupancy": 0.5085,
+    "avg_price_index": 75.04,
+    "total_sold": 113,
+    "total_unsold": 151,
+    "avg_price": 705408.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "台灣",
+    "avg_occupancy": 0.561,
+    "avg_price_index": 96.38,
+    "total_sold": 6110,
+    "total_unsold": 4784,
+    "avg_price": 3084.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "新加坡",
+    "avg_occupancy": 0.5836,
+    "avg_price_index": 103.32,
+    "total_sold": 2020,
+    "total_unsold": 1432,
+    "avg_price": 207.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "日本",
+    "avg_occupancy": 0.5967,
+    "avg_price_index": 101.35,
+    "total_sold": 1963,
+    "total_unsold": 1262,
+    "avg_price": 15709.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "泰國",
+    "avg_occupancy": 0.5575,
+    "avg_price_index": 102.81,
+    "total_sold": 1297,
+    "total_unsold": 980,
+    "avg_price": 2981.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "菲律賓",
+    "avg_occupancy": 0.3756,
+    "avg_price_index": 84.39,
+    "total_sold": 90,
+    "total_unsold": 116,
+    "avg_price": 3544.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "越南",
+    "avg_occupancy": 0.5608,
+    "avg_price_index": 100.68,
+    "total_sold": 272,
+    "total_unsold": 174,
+    "avg_price": 1711470.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "韓國",
+    "avg_occupancy": 0.432,
+    "avg_price_index": 87.44,
+    "total_sold": 378,
+    "total_unsold": 451,
+    "avg_price": 126783.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "香港",
+    "avg_occupancy": 0.637,
+    "avg_price_index": 97.14,
+    "total_sold": 918,
+    "total_unsold": 539,
+    "avg_price": 923.0
+  },
+  {
+    "date_str": "2026-10-24",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6193,
+    "avg_price_index": 107.0,
+    "total_sold": 274,
+    "total_unsold": 193,
+    "avg_price": 321.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5129,
+    "avg_price_index": 108.28,
+    "total_sold": 621,
+    "total_unsold": 571,
+    "avg_price": 639.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "印尼",
+    "avg_occupancy": 0.5166,
+    "avg_price_index": 71.06,
+    "total_sold": 129,
+    "total_unsold": 135,
+    "avg_price": 668020.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "台灣",
+    "avg_occupancy": 0.6829,
+    "avg_price_index": 106.53,
+    "total_sold": 7508,
+    "total_unsold": 3386,
+    "avg_price": 3409.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "新加坡",
+    "avg_occupancy": 0.5921,
+    "avg_price_index": 104.36,
+    "total_sold": 2013,
+    "total_unsold": 1439,
+    "avg_price": 209.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "日本",
+    "avg_occupancy": 0.5962,
+    "avg_price_index": 99.12,
+    "total_sold": 1975,
+    "total_unsold": 1250,
+    "avg_price": 15363.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "泰國",
+    "avg_occupancy": 0.5568,
+    "avg_price_index": 105.39,
+    "total_sold": 1258,
+    "total_unsold": 1019,
+    "avg_price": 3056.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4612,
+    "avg_price_index": 88.14,
+    "total_sold": 115,
+    "total_unsold": 91,
+    "avg_price": 3702.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "越南",
+    "avg_occupancy": 0.6223,
+    "avg_price_index": 89.32,
+    "total_sold": 298,
+    "total_unsold": 148,
+    "avg_price": 1518382.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "韓國",
+    "avg_occupancy": 0.4754,
+    "avg_price_index": 85.9,
+    "total_sold": 404,
+    "total_unsold": 425,
+    "avg_price": 124557.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "香港",
+    "avg_occupancy": 0.6407,
+    "avg_price_index": 93.71,
+    "total_sold": 926,
+    "total_unsold": 531,
+    "avg_price": 890.0
+  },
+  {
+    "date_str": "2026-10-25",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5938,
+    "avg_price_index": 109.16,
+    "total_sold": 270,
+    "total_unsold": 197,
+    "avg_price": 328.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4959,
+    "avg_price_index": 100.56,
+    "total_sold": 548,
+    "total_unsold": 644,
+    "avg_price": 593.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "印尼",
+    "avg_occupancy": 0.5115,
+    "avg_price_index": 74.83,
+    "total_sold": 135,
+    "total_unsold": 129,
+    "avg_price": 703420.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "台灣",
+    "avg_occupancy": 0.6349,
+    "avg_price_index": 103.77,
+    "total_sold": 6973,
+    "total_unsold": 3921,
+    "avg_price": 3321.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "新加坡",
+    "avg_occupancy": 0.5198,
+    "avg_price_index": 102.32,
+    "total_sold": 1825,
+    "total_unsold": 1627,
+    "avg_price": 205.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "日本",
+    "avg_occupancy": 0.5759,
+    "avg_price_index": 96.25,
+    "total_sold": 1900,
+    "total_unsold": 1325,
+    "avg_price": 14919.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "泰國",
+    "avg_occupancy": 0.5985,
+    "avg_price_index": 101.83,
+    "total_sold": 1382,
+    "total_unsold": 895,
+    "avg_price": 2953.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "菲律賓",
+    "avg_occupancy": 0.3774,
+    "avg_price_index": 84.02,
+    "total_sold": 88,
+    "total_unsold": 118,
+    "avg_price": 3529.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "越南",
+    "avg_occupancy": 0.5214,
+    "avg_price_index": 92.96,
+    "total_sold": 248,
+    "total_unsold": 198,
+    "avg_price": 1580393.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "韓國",
+    "avg_occupancy": 0.4744,
+    "avg_price_index": 82.15,
+    "total_sold": 392,
+    "total_unsold": 437,
+    "avg_price": 119117.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "香港",
+    "avg_occupancy": 0.5759,
+    "avg_price_index": 93.51,
+    "total_sold": 851,
+    "total_unsold": 606,
+    "avg_price": 888.0
+  },
+  {
+    "date_str": "2026-10-26",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.597,
+    "avg_price_index": 109.16,
+    "total_sold": 276,
+    "total_unsold": 191,
+    "avg_price": 328.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5047,
+    "avg_price_index": 105.18,
+    "total_sold": 593,
+    "total_unsold": 599,
+    "avg_price": 621.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "印尼",
+    "avg_occupancy": 0.4494,
+    "avg_price_index": 77.47,
+    "total_sold": 91,
+    "total_unsold": 173,
+    "avg_price": 728231.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "台灣",
+    "avg_occupancy": 0.5588,
+    "avg_price_index": 94.57,
+    "total_sold": 6169,
+    "total_unsold": 4725,
+    "avg_price": 3026.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "新加坡",
+    "avg_occupancy": 0.566,
+    "avg_price_index": 102.26,
+    "total_sold": 1987,
+    "total_unsold": 1465,
+    "avg_price": 205.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "日本",
+    "avg_occupancy": 0.5497,
+    "avg_price_index": 98.03,
+    "total_sold": 1838,
+    "total_unsold": 1387,
+    "avg_price": 15195.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "泰國",
+    "avg_occupancy": 0.6062,
+    "avg_price_index": 99.09,
+    "total_sold": 1422,
+    "total_unsold": 855,
+    "avg_price": 2873.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4645,
+    "avg_price_index": 83.44,
+    "total_sold": 98,
+    "total_unsold": 108,
+    "avg_price": 3504.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "越南",
+    "avg_occupancy": 0.4788,
+    "avg_price_index": 90.23,
+    "total_sold": 220,
+    "total_unsold": 226,
+    "avg_price": 1533963.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "韓國",
+    "avg_occupancy": 0.4542,
+    "avg_price_index": 88.31,
+    "total_sold": 387,
+    "total_unsold": 442,
+    "avg_price": 128050.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "香港",
+    "avg_occupancy": 0.625,
+    "avg_price_index": 95.46,
+    "total_sold": 933,
+    "total_unsold": 524,
+    "avg_price": 907.0
+  },
+  {
+    "date_str": "2026-10-27",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5935,
+    "avg_price_index": 103.84,
+    "total_sold": 291,
+    "total_unsold": 176,
+    "avg_price": 312.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "中國大陸",
+    "avg_occupancy": 0.4632,
+    "avg_price_index": 106.24,
+    "total_sold": 543,
+    "total_unsold": 649,
+    "avg_price": 627.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "印尼",
+    "avg_occupancy": 0.5082,
+    "avg_price_index": 80.58,
+    "total_sold": 117,
+    "total_unsold": 147,
+    "avg_price": 757396.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "台灣",
+    "avg_occupancy": 0.5443,
+    "avg_price_index": 94.3,
+    "total_sold": 5971,
+    "total_unsold": 4923,
+    "avg_price": 3018.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "新加坡",
+    "avg_occupancy": 0.5343,
+    "avg_price_index": 99.76,
+    "total_sold": 1866,
+    "total_unsold": 1586,
+    "avg_price": 200.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "日本",
+    "avg_occupancy": 0.545,
+    "avg_price_index": 97.78,
+    "total_sold": 1828,
+    "total_unsold": 1397,
+    "avg_price": 15156.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "泰國",
+    "avg_occupancy": 0.5708,
+    "avg_price_index": 104.13,
+    "total_sold": 1303,
+    "total_unsold": 974,
+    "avg_price": 3020.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "菲律賓",
+    "avg_occupancy": 0.496,
+    "avg_price_index": 89.58,
+    "total_sold": 103,
+    "total_unsold": 103,
+    "avg_price": 3762.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "越南",
+    "avg_occupancy": 0.5177,
+    "avg_price_index": 89.96,
+    "total_sold": 252,
+    "total_unsold": 194,
+    "avg_price": 1529259.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "韓國",
+    "avg_occupancy": 0.4542,
+    "avg_price_index": 79.8,
+    "total_sold": 387,
+    "total_unsold": 442,
+    "avg_price": 115718.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "香港",
+    "avg_occupancy": 0.571,
+    "avg_price_index": 95.46,
+    "total_sold": 807,
+    "total_unsold": 650,
+    "avg_price": 907.0
+  },
+  {
+    "date_str": "2026-10-28",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5832,
+    "avg_price_index": 108.84,
+    "total_sold": 285,
+    "total_unsold": 182,
+    "avg_price": 326.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5494,
+    "avg_price_index": 104.5,
+    "total_sold": 653,
+    "total_unsold": 539,
+    "avg_price": 617.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "印尼",
+    "avg_occupancy": 0.5606,
+    "avg_price_index": 66.64,
+    "total_sold": 136,
+    "total_unsold": 128,
+    "avg_price": 626454.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "台灣",
+    "avg_occupancy": 0.5366,
+    "avg_price_index": 95.11,
+    "total_sold": 5875,
+    "total_unsold": 5019,
+    "avg_price": 3044.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "新加坡",
+    "avg_occupancy": 0.534,
+    "avg_price_index": 101.54,
+    "total_sold": 1847,
+    "total_unsold": 1605,
+    "avg_price": 203.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "日本",
+    "avg_occupancy": 0.5564,
+    "avg_price_index": 97.08,
+    "total_sold": 1840,
+    "total_unsold": 1385,
+    "avg_price": 15047.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "泰國",
+    "avg_occupancy": 0.5933,
+    "avg_price_index": 104.14,
+    "total_sold": 1389,
+    "total_unsold": 888,
+    "avg_price": 3020.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5102,
+    "avg_price_index": 79.24,
+    "total_sold": 105,
+    "total_unsold": 101,
+    "avg_price": 3328.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "越南",
+    "avg_occupancy": 0.604,
+    "avg_price_index": 90.48,
+    "total_sold": 276,
+    "total_unsold": 170,
+    "avg_price": 1538239.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "韓國",
+    "avg_occupancy": 0.4393,
+    "avg_price_index": 82.62,
+    "total_sold": 370,
+    "total_unsold": 459,
+    "avg_price": 119790.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "香港",
+    "avg_occupancy": 0.5823,
+    "avg_price_index": 94.53,
+    "total_sold": 833,
+    "total_unsold": 624,
+    "avg_price": 898.0
+  },
+  {
+    "date_str": "2026-10-29",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.5766,
+    "avg_price_index": 108.0,
+    "total_sold": 262,
+    "total_unsold": 205,
+    "avg_price": 324.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5054,
+    "avg_price_index": 100.26,
+    "total_sold": 582,
+    "total_unsold": 610,
+    "avg_price": 592.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "印尼",
+    "avg_occupancy": 0.4488,
+    "avg_price_index": 71.43,
+    "total_sold": 99,
+    "total_unsold": 165,
+    "avg_price": 671441.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "台灣",
+    "avg_occupancy": 0.5448,
+    "avg_price_index": 93.52,
+    "total_sold": 5919,
+    "total_unsold": 4975,
+    "avg_price": 2993.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "新加坡",
+    "avg_occupancy": 0.5188,
+    "avg_price_index": 101.6,
+    "total_sold": 1801,
+    "total_unsold": 1651,
+    "avg_price": 203.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "日本",
+    "avg_occupancy": 0.5725,
+    "avg_price_index": 95.23,
+    "total_sold": 1882,
+    "total_unsold": 1343,
+    "avg_price": 14761.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "泰國",
+    "avg_occupancy": 0.5767,
+    "avg_price_index": 103.51,
+    "total_sold": 1359,
+    "total_unsold": 918,
+    "avg_price": 3002.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "菲律賓",
+    "avg_occupancy": 0.5328,
+    "avg_price_index": 84.98,
+    "total_sold": 120,
+    "total_unsold": 86,
+    "avg_price": 3569.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "越南",
+    "avg_occupancy": 0.5469,
+    "avg_price_index": 89.47,
+    "total_sold": 252,
+    "total_unsold": 194,
+    "avg_price": 1521029.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "韓國",
+    "avg_occupancy": 0.4653,
+    "avg_price_index": 82.66,
+    "total_sold": 395,
+    "total_unsold": 434,
+    "avg_price": 119861.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "香港",
+    "avg_occupancy": 0.6053,
+    "avg_price_index": 90.95,
+    "total_sold": 860,
+    "total_unsold": 597,
+    "avg_price": 864.0
+  },
+  {
+    "date_str": "2026-10-30",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.7067,
+    "avg_price_index": 115.67,
+    "total_sold": 330,
+    "total_unsold": 137,
+    "avg_price": 347.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "中國大陸",
+    "avg_occupancy": 0.5386,
+    "avg_price_index": 102.54,
+    "total_sold": 643,
+    "total_unsold": 549,
+    "avg_price": 605.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "印尼",
+    "avg_occupancy": 0.4307,
+    "avg_price_index": 67.7,
+    "total_sold": 91,
+    "total_unsold": 173,
+    "avg_price": 636374.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "台灣",
+    "avg_occupancy": 0.5749,
+    "avg_price_index": 97.86,
+    "total_sold": 6271,
+    "total_unsold": 4623,
+    "avg_price": 3132.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "新加坡",
+    "avg_occupancy": 0.543,
+    "avg_price_index": 105.08,
+    "total_sold": 1865,
+    "total_unsold": 1587,
+    "avg_price": 210.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "日本",
+    "avg_occupancy": 0.5731,
+    "avg_price_index": 100.19,
+    "total_sold": 1873,
+    "total_unsold": 1352,
+    "avg_price": 15529.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "泰國",
+    "avg_occupancy": 0.5613,
+    "avg_price_index": 102.64,
+    "total_sold": 1320,
+    "total_unsold": 957,
+    "avg_price": 2977.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "菲律賓",
+    "avg_occupancy": 0.4102,
+    "avg_price_index": 92.42,
+    "total_sold": 96,
+    "total_unsold": 110,
+    "avg_price": 3882.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "越南",
+    "avg_occupancy": 0.5712,
+    "avg_price_index": 86.53,
+    "total_sold": 257,
+    "total_unsold": 189,
+    "avg_price": 1470965.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "韓國",
+    "avg_occupancy": 0.4407,
+    "avg_price_index": 84.46,
+    "total_sold": 384,
+    "total_unsold": 445,
+    "avg_price": 122468.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "香港",
+    "avg_occupancy": 0.5993,
+    "avg_price_index": 97.49,
+    "total_sold": 862,
+    "total_unsold": 595,
+    "avg_price": 926.0
+  },
+  {
+    "date_str": "2026-10-31",
+    "country": "馬來西亞",
+    "avg_occupancy": 0.6585,
+    "avg_price_index": 113.5,
+    "total_sold": 297,
+    "total_unsold": 170,
+    "avg_price": 340.0
+  }
+]
