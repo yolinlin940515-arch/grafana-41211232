@@ -390,6 +390,7 @@ body {
   <div class="nav-tab" data-tab="location"><span class="tab-icon">📍</span>地段成本分析</div>
   <div class="nav-tab" data-tab="holiday"><span class="tab-icon">📅</span>平假日效率</div>
   <div class="nav-tab" data-tab="reviews"><span class="tab-icon">🤖</span>AI評論與虛假過濾</div>
+  <div class="nav-tab" data-tab="radar"><span class="tab-icon">🕸️</span>雷達戰力診斷</div>
   <div class="nav-tab" data-tab="directory"><span class="tab-icon">🔍</span>飯店名冊檢索</div>
 </nav>
 
@@ -638,6 +639,86 @@ body {
 
       <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px" id="reviewCountText"></div>
       <div class="review-grid" id="reviewGrid"></div>
+    </div>
+  </div>
+
+    <!-- ===== TAB: Radar Battle Diagnosis ===== -->
+  <div class="tab-panel" id="panel-radar">
+    <div class="section-title"><span class="icon">🕸️</span>多維營運戰力雷達診斷與策略規劃</div>
+    <div class="insight-box">
+      <span class="insight-icon">🎯</span>
+      <strong>雷達圖解決的關鍵營運問題：</strong>打破單一指標（只看高房價或高設施）的盲點，全面診斷飯店在
+      <strong>【硬體設施力、客房去化力、定價溢價力、地段區位力、真實口碑力、成本回收力】</strong>等六大維度的「長短腳失衡」，
+      並針對多邊形凹陷處提供客製化戰略解方。
+    </div>
+
+    <!-- Interactive Diagnosis Row -->
+    <div class="chart-grid cols-2" style="margin-bottom:24px;">
+      <div class="chart-card">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+          <div>
+            <div class="chart-title">📊 飯店六維戰力雷達對照圖</div>
+            <div class="chart-subtitle">選擇亞洲 165 間飯店，與產業標竿進行多維差距診斷</div>
+          </div>
+          <select id="radarHotelSelect" style="background:var(--bg-primary);border:1px solid var(--accent-cyan);color:#fff;padding:6px 12px;border-radius:8px;font-size:12px;outline:none;">
+          </select>
+        </div>
+        <div class="chart-container" style="height:420px;"><canvas id="chartMainRadar"></canvas></div>
+      </div>
+
+      <div class="chart-card" style="display:flex;flex-direction:column;justify-content:space-between;">
+        <div>
+          <div class="chart-title" id="diagTitle">🔍 營運體質診斷報告</div>
+          <div class="chart-subtitle" id="diagSubtitle">系統自動分析六維戰力指標與沉沒成本漏洞</div>
+          
+          <div id="radarScoreBars" style="margin:16px 0;display:flex;flex-direction:column;gap:10px;">
+            <!-- Score progress bars populated by JS -->
+          </div>
+
+          <div style="background:rgba(239,68,68,0.1);border:1px solid rgba(239,68,68,0.3);border-radius:10px;padding:12px;margin-bottom:12px;">
+            <div style="font-weight:600;color:var(--accent-red);font-size:13px;margin-bottom:6px;">⚠️ 診斷出之營運漏洞 (Bottlenecks)</div>
+            <ul id="diagWeaknesses" style="font-size:12px;color:#cbd5e1;padding-left:18px;line-height:1.6;">
+            </ul>
+          </div>
+
+          <div style="background:rgba(16,185,129,0.1);border:1px solid rgba(16,185,129,0.3);border-radius:10px;padding:12px;">
+            <div style="font-weight:600;color:var(--accent-green);font-size:13px;margin-bottom:6px;">💡 管理層策略規劃建議 (Action Plan)</div>
+            <ul id="diagSuggestions" style="font-size:12px;color:#cbd5e1;padding-left:18px;line-height:1.6;">
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3 Archetypes Benchmark Exhibition -->
+    <div class="section-title" style="font-size:16px;margin-top:30px;"><span class="icon">🏛️</span>三大經典營運原型雷達戰力對比</div>
+    <div class="chart-grid cols-3">
+      <div class="chart-card">
+        <div class="chart-title" style="color:var(--accent-cyan);">🌟 標竿全能型</div>
+        <div class="chart-subtitle">台北君悅 (Grand Hyatt Taipei) ｜ 均衡大面積多邊形</div>
+        <div class="chart-container" style="height:280px;"><canvas id="chartArchetype1"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;line-height:1.5;">
+          • 各項戰力皆達 60-90 分，地段優勢 (93.2) 與定價權 (84.0) 形成堅固護城河，利潤與客源穩定。
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title" style="color:var(--accent-red);">⚠️ 資本失衡陷阱型</div>
+        <div class="chart-subtitle">新加坡君悅 (Grand Hyatt Singapore) ｜ 上尖下凹畸形</div>
+        <div class="chart-container" style="height:280px;"><canvas id="chartArchetype2"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;line-height:1.5;">
+          • 硬體投資極高 (80.0)，但定價溢價力僅 30.8、成本回收力僅 46.3，陷入高折舊與重資產回報率低的困境。
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-title" style="color:var(--accent-yellow);">📉 景區去化承壓型</div>
+        <div class="chart-subtitle">日月潭涵碧樓 (The Lalu) ｜ 全面內縮型</div>
+        <div class="chart-container" style="height:280px;"><canvas id="chartArchetype3"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;line-height:1.5;">
+          • 受限於風景區平日客源，住房率 (36.5) 與口碑 (30.8) 承壓，每天白白浪費 61.6 間未售空房。
+        </div>
+      </div>
     </div>
   </div>
 
@@ -1521,6 +1602,158 @@ function showHotelDetail(h) {
 function closeModal() { document.getElementById('hotelModal').classList.remove('active'); }
 document.getElementById('hotelModal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
 
+
+// ===== Render Radar Diagnosis =====
+let mainRadarChartInstance = null;
+function renderRadar() {
+  const raData = DATA.radar_analysis;
+  if (!raData) return;
+
+  const hotels = raData.hotels;
+  const archetypes = raData.archetypes;
+  const labels = ['硬體設施力', '客房去化力', '定價溢價力', '地段區位力', '真實口碑力', '成本回收力'];
+
+  // Populate Select Dropdown
+  const select = document.getElementById('radarHotelSelect');
+  select.innerHTML = '';
+  hotels.forEach((h, idx) => {
+    const opt = document.createElement('option');
+    opt.value = idx;
+    opt.textContent = `${h.hotel_name} (${h.country})`;
+    if (h.hotel_name.includes('Grand Hyatt Taipei')) opt.selected = true;
+    select.appendChild(opt);
+  });
+
+  function updateMainRadar(hotelIndex) {
+    const h = hotels[hotelIndex];
+    const hScores = labels.map(l => h.metrics[l]);
+    const bScores = labels.map(l => archetypes.benchmark[l]);
+
+    // Update Right Panel
+    document.getElementById('diagTitle').textContent = `🔍 ${h.hotel_name} 營運診斷報告`;
+    document.getElementById('diagSubtitle').textContent = `${h.country} · ${h.city} ｜ 每日閒置空房浪費：${h.raw.unsold_rooms} 間 ｜ 均價：${h.raw.currency} ${h.raw.room_price}`;
+
+    // Score Bars
+    const barsContainer = document.getElementById('radarScoreBars');
+    barsContainer.innerHTML = labels.map(l => {
+      const val = h.metrics[l];
+      const color = val >= 70 ? 'var(--accent-green)' : val >= 50 ? 'var(--accent-yellow)' : 'var(--accent-red)';
+      return `
+        <div>
+          <div style="display:flex;justify-content:space-between;font-size:11px;margin-bottom:3px;">
+            <span>${l}</span>
+            <span style="font-weight:700;color:${color}">${val} / 100</span>
+          </div>
+          <div style="width:100%;height:6px;background:rgba(255,255,255,0.06);border-radius:3px;overflow:hidden;">
+            <div style="width:${val}%;height:100%;background:${color};border-radius:3px;"></div>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    // Weaknesses
+    const wList = document.getElementById('diagWeaknesses');
+    wList.innerHTML = h.weaknesses.map(w => `<li>${w}</li>`).join('');
+
+    // Suggestions
+    const sList = document.getElementById('diagSuggestions');
+    sList.innerHTML = h.suggestions.map(s => `<li>${s}</li>`).join('');
+
+    // Render / Update Chart
+    if (mainRadarChartInstance) {
+      mainRadarChartInstance.data.datasets[0].label = h.hotel_name;
+      mainRadarChartInstance.data.datasets[0].data = hScores;
+      mainRadarChartInstance.update();
+      return;
+    }
+
+    mainRadarChartInstance = new Chart(document.getElementById('chartMainRadar'), {
+      type: 'radar',
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: h.hotel_name,
+            data: hScores,
+            backgroundColor: 'rgba(56, 189, 248, 0.25)',
+            borderColor: '#38bdf8',
+            pointBackgroundColor: '#38bdf8',
+            pointBorderColor: '#fff',
+            pointHoverBackgroundColor: '#fff',
+            pointHoverBorderColor: '#38bdf8',
+            borderWidth: 2
+          },
+          {
+            label: '🎯 產業理想基準 (Benchmark)',
+            data: bScores,
+            backgroundColor: 'rgba(148, 163, 184, 0.08)',
+            borderColor: 'rgba(148, 163, 184, 0.5)',
+            borderDash: [5, 5],
+            pointBackgroundColor: 'rgba(148, 163, 184, 0.5)',
+            borderWidth: 1.5
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          r: {
+            angleLines: { color: 'rgba(255,255,255,0.1)' },
+            grid: { color: 'rgba(255,255,255,0.08)' },
+            pointLabels: { color: '#cbd5e1', font: { size: 12, weight: '500' } },
+            ticks: { display: false, min: 0, max: 100 }
+          }
+        },
+        plugins: {
+          legend: { position: 'top', labels: { boxWidth: 12, color: '#e2e8f0' } }
+        }
+      }
+    });
+  }
+
+  select.addEventListener('change', (e) => updateMainRadar(e.target.value));
+  updateMainRadar(select.value || 0);
+
+  // Render 3 Archetype mini radars
+  const archetypesConfigs = [
+    { id: 'chartArchetype1', data: archetypes.grand_hyatt_taipei, color: '#38bdf8' },
+    { id: 'chartArchetype2', data: archetypes.grand_hyatt_singapore, color: '#ef4444' },
+    { id: 'chartArchetype3', data: archetypes.the_lalu, color: '#f59e0b' }
+  ];
+
+  archetypesConfigs.forEach(arch => {
+    const scores = labels.map(l => arch.data.metrics[l]);
+    new Chart(document.getElementById(arch.id), {
+      type: 'radar',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: arch.data.hotel_name,
+          data: scores,
+          backgroundColor: arch.color + '33',
+          borderColor: arch.color,
+          borderWidth: 2,
+          pointRadius: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: {
+          r: {
+            angleLines: { color: 'rgba(255,255,255,0.08)' },
+            grid: { color: 'rgba(255,255,255,0.06)' },
+            pointLabels: { color: '#94a3b8', font: { size: 10 } },
+            ticks: { display: false, min: 0, max: 100 }
+          }
+        },
+        plugins: { legend: { display: false } }
+      }
+    });
+  });
+}
+
 // ===== Init =====
 (async () => {
   try {
@@ -1531,6 +1764,7 @@ document.getElementById('hotelModal').addEventListener('click', e => { if (e.tar
     renderLocation();
     renderHoliday();
     renderReviews();
+    renderRadar();
     renderDirectory();
     // Auth user status in header
     const authUser = JSON.parse(localStorage.getItem('asia_hotel_auth_user') || 'null');
