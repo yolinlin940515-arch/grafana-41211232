@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>使用者登入 | 亞洲旅館營運決策與真實評論過濾系統</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+:root {
+  --bg-primary: #07090e;
+  --bg-secondary: #0f1424;
+  --bg-card: rgba(22, 28, 48, 0.75);
+  --border-color: rgba(59, 130, 246, 0.25);
+  --border-focus: #38bdf8;
+  --text-main: #f1f5f9;
+  --text-muted: #94a3b8;
+  --accent-cyan: #38bdf8;
+  --accent-blue: #3b82f6;
+  --accent-purple: #a855f7;
+  --accent-green: #10b981;
+  --accent-red: #f43f5e;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+}
+
+body {
+  background: var(--bg-primary);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  color: var(--text-main);
+  padding: 20px;
+}
+
+/* Background animated gradient glow spheres */
+.bg-glow {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(120px);
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.45;
+  animation: floatSlow 18s ease-in-out infinite alternate;
+}
+.glow-1 {
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, #2563eb, transparent 70%);
+  top: -100px;
+  left: -100px;
+}
+.glow-2 {
+  width: 450px;
+  height: 450px;
+  background: radial-gradient(circle, #06b6d4, transparent 70%);
+  bottom: -100px;
+  right: -80px;
+  animation-delay: -7s;
+}
+.glow-3 {
+  width: 350px;
+  height: 350px;
+  background: radial-gradient(circle, #8b5cf6, transparent 70%);
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  animation-delay: -12s;
+}
+
+@keyframes floatSlow {
+  0% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(40px, -30px) scale(1.08); }
+  100% { transform: translate(-30px, 40px) scale(0.95); }
+}
+
+/* Subtle background tech grid pattern */
+.bg-grid {
+  position: absolute;
+  inset: 0;
+  background-image: 
+    linear-gradient(rgba(59, 130, 246, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(59, 130, 246, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+  z-index: 0;
+  mask-image: radial-gradient(circle at center, black 40%, transparent 85%);
+  -webkit-mask-image: radial-gradient(circle at center, black 40%, transparent 85%);
+}
+
+/* Login Card Container */
+.login-card {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  max-width: 460px;
+  background: var(--bg-card);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  padding: 40px 36px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6), 0 0 30px rgba(56, 189, 248, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.login-card:hover {
+  border-color: rgba(56, 189, 248, 0.4);
+  box-shadow: 0 25px 70px rgba(0, 0, 0, 0.7), 0 0 40px rgba(56, 189, 248, 0.15);
+}
+
+/* Logo & Header */
+.card-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.brand-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(56, 189, 248, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  padding: 6px 14px;
+  border-radius: 50px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--accent-cyan);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.brand-logo {
+  font-size: 38px;
+  background: linear-gradient(135deg, #38bdf8, #3b82f6, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+.brand-title {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.brand-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+/* Form Styles */
+.form-group {
+  margin-bottom: 20px;
+}
+.form-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  color: #cbd5e1;
+  margin-bottom: 8px;
+}
+.input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.input-icon {
+  position: absolute;
+  left: 14px;
+  color: #64748b;
+  font-size: 15px;
+  transition: color 0.2s ease;
+  pointer-events: none;
+}
+.form-input {
+  width: 100%;
+  background: rgba(15, 23, 42, 0.65);
+  border: 1px solid rgba(71, 85, 105, 0.6);
+  border-radius: 12px;
+  padding: 13px 42px 13px 42px;
+  font-size: 14px;
+  color: #fff;
+  outline: none;
+  transition: all 0.25s ease;
+}
+.form-input:focus {
+  border-color: var(--border-focus);
+  background: rgba(15, 23, 42, 0.9);
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+.form-input:focus + .input-icon {
+  color: var(--accent-cyan);
+}
+.toggle-pwd {
+  position: absolute;
+  right: 14px;
+  color: #64748b;
+  cursor: pointer;
+  font-size: 15px;
+  padding: 4px;
+  transition: color 0.2s ease;
+}
+.toggle-pwd:hover {
+  color: #e2e8f0;
+}
+
+/* Actions Row: Remember & Forgot */
+.form-actions-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  margin-bottom: 24px;
+}
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  cursor: pointer;
+  user-select: none;
+}
+.remember-me input {
+  accent-color: var(--accent-cyan);
+  cursor: pointer;
+}
+.forgot-pwd-link {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.forgot-pwd-link:hover {
+  color: #7dd3fc;
+  text-decoration: underline;
+}
+
+/* Submit Button */
+.btn-submit {
+  width: 100%;
+  padding: 14px;
+  border-radius: 12px;
+  border: none;
+  background: linear-gradient(135deg, #0284c7, #2563eb);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  box-shadow: 0 4px 18px rgba(37, 99, 235, 0.4);
+  transition: all 0.25s ease;
+}
+.btn-submit:hover {
+  background: linear-gradient(135deg, #0369a1, #1d4ed8);
+  box-shadow: 0 6px 24px rgba(37, 99, 235, 0.55);
+  transform: translateY(-1px);
+}
+.btn-submit:active {
+  transform: translateY(1px);
+}
+.btn-submit.loading {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+/* Quick Demo Login Pill Area */
+.demo-section {
+  margin-top: 26px;
+  padding-top: 20px;
+  border-top: 1px dashed rgba(71, 85, 105, 0.5);
+}
+.demo-title {
+  text-align: center;
+  font-size: 11px;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.demo-btn-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.demo-role-btn {
+  background: rgba(30, 41, 59, 0.6);
+  border: 1px solid rgba(71, 85, 105, 0.4);
+  color: #cbd5e1;
+  padding: 8px 6px;
+  border-radius: 8px;
+  font-size: 11px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.2s ease;
+}
+.demo-role-btn i {
+  font-size: 13px;
+}
+.demo-role-btn:hover {
+  background: rgba(56, 189, 248, 0.15);
+  border-color: rgba(56, 189, 248, 0.5);
+  color: #38bdf8;
+  transform: translateY(-1px);
+}
+
+/* Alert Message Box */
+.alert-box {
+  display: none;
+  padding: 12px 14px;
+  border-radius: 10px;
+  font-size: 13px;
+  margin-bottom: 20px;
+  align-items: center;
+  gap: 10px;
+}
+.alert-box.success {
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid rgba(16, 185, 129, 0.4);
+  color: #34d399;
+}
+.alert-box.error {
+  background: rgba(244, 63, 94, 0.15);
+  border: 1px solid rgba(244, 63, 94, 0.4);
+  color: #fb7185;
+}
+
+/* Footer Info */
+.card-footer {
+  text-align: center;
+  margin-top: 24px;
+  font-size: 11px;
+  color: #64748b;
+}
+.card-footer span {
+  color: #94a3b8;
+}
+</style>
+</head>
+<body>
+
+<!-- Tech background elements -->
+<div class="bg-glow glow-1"></div>
+<div class="bg-glow glow-2"></div>
+<div class="bg-glow glow-3"></div>
+<div class="bg-grid"></div>
+
+<!-- Login Card -->
+<div class="login-card">
+  
+  <div class="card-header">
+    <div class="brand-badge">
+      <i class="fa-solid fa-shield-halved"></i> 企業級決策分析系統
+    </div>
+    <div class="brand-logo">
+      <i class="fa-solid fa-hotel"></i>
+    </div>
+    <h1 class="brand-title">亞洲旅館營運分析平台</h1>
+    <p class="brand-subtitle">80,848 筆真實名冊數據 ｜ AI 虛假評論過濾系統</p>
+  </div>
+
+  <!-- Message Box -->
+  <div id="alertBox" class="alert-box">
+    <i id="alertIcon" class="fa-solid fa-circle-exclamation"></i>
+    <span id="alertMsg">提示訊息</span>
+  </div>
+
+  <!-- Login Form -->
+  <form id="loginForm" onsubmit="handleLogin(event)">
+    <div class="form-group">
+      <label class="form-label" for="username">帳號 / 學號 / 企業信箱</label>
+      <div class="input-wrapper">
+        <input type="text" id="username" class="form-input" placeholder="例如：41211232 或 admin" required value="41211232@stu.nkuht.edu.tw">
+        <i class="fa-solid fa-user input-icon"></i>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label class="form-label" for="password">登入密碼</label>
+      <div class="input-wrapper">
+        <input type="password" id="password" class="form-input" placeholder="請輸入密碼" required value="hotel2026">
+        <i class="fa-solid fa-lock input-icon"></i>
+        <i class="fa-solid fa-eye-slash toggle-pwd" id="togglePwd" onclick="togglePasswordVisibility()"></i>
+      </div>
+    </div>
+
+    <div class="form-actions-row">
+      <label class="remember-me">
+        <input type="checkbox" id="rememberMe" checked>
+        <span>記住此裝置</span>
+      </label>
+      <a href="javascript:void(0)" onclick="handleForgotPassword()" class="forgot-pwd-link">忘記密碼？</a>
+    </div>
+
+    <button type="submit" id="btnSubmit" class="btn-submit">
+      <i class="fa-solid fa-right-to-bracket"></i>
+      <span id="btnText">進入數據決策儀表板</span>
+    </button>
+  </form>
+
+  <!-- Quick Demo Role Login -->
+  <div class="demo-section">
+    <div class="demo-title">一鍵快速示範身分 (期中報告評審測試)</div>
+    <div class="demo-btn-grid">
+      <button type="button" class="demo-role-btn" onclick="quickFill('admin')">
+        <i class="fa-solid fa-crown" style="color:#f59e0b;"></i>
+        <span>系統管理員</span>
+      </button>
+      <button type="button" class="demo-role-btn" onclick="quickFill('analyst')">
+        <i class="fa-solid fa-chart-line" style="color:#38bdf8;"></i>
+        <span>收益分析師</span>
+      </button>
+      <button type="button" class="demo-role-btn" onclick="quickFill('manager')">
+        <i class="fa-solid fa-user-tie" style="color:#10b981;"></i>
+        <span>飯店總經理</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="card-footer">
+    國立高雄餐旅大學 旅館管理系 ｜ 系統代號：<span>RL-CLASS-202610-v3</span>
+  </div>
+</div>
+
+<script>
+// Check if user came from logout
+window.addEventListener('DOMContentLoaded', () => {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('logout') === '1') {
+    showAlert('您已成功安全登出系統。', 'success');
+  }
+});
+
+function togglePasswordVisibility() {
+  const pwdInput = document.getElementById('password');
+  const toggleIcon = document.getElementById('togglePwd');
+  if (pwdInput.type === 'password') {
+    pwdInput.type = 'text';
+    toggleIcon.classList.remove('fa-eye-slash');
+    toggleIcon.classList.add('fa-eye');
+  } else {
+    pwdInput.type = 'password';
+    toggleIcon.classList.remove('fa-eye');
+    toggleIcon.classList.add('fa-eye-slash');
+  }
+}
+
+function showAlert(message, type = 'error') {
+  const box = document.getElementById('alertBox');
+  const icon = document.getElementById('alertIcon');
+  const msg = document.getElementById('alertMsg');
+  
+  box.className = `alert-box ${type}`;
+  box.style.display = 'flex';
+  msg.textContent = message;
+  
+  if (type === 'success') {
+    icon.className = 'fa-solid fa-circle-check';
+  } else {
+    icon.className = 'fa-solid fa-triangle-exclamation';
+  }
+}
+
+function quickFill(role) {
+  const u = document.getElementById('username');
+  const p = document.getElementById('password');
+  
+  if (role === 'admin') {
+    u.value = 'admin@hotel-analytics.asia';
+    p.value = 'admin888';
+    showAlert('已填入【系統管理員】身分，點擊登入按鈕即可進入', 'success');
+  } else if (role === 'analyst') {
+    u.value = 'analyst@hotel-analytics.asia';
+    p.value = 'analyst2026';
+    showAlert('已填入【收益分析師】身分，點擊登入按鈕即可進入', 'success');
+  } else if (role === 'manager') {
+    u.value = 'gm-hyatt@hotel-analytics.asia';
+    p.value = 'gmPass999';
+    showAlert('已填入【飯店總經理】身分，點擊登入按鈕即可進入', 'success');
+  }
+}
+
+function handleForgotPassword() {
+  alert('【重設密碼說明】\n請聯繫期中報告系統管理者：41211232@stu.nkuht.edu.tw\n示範期間可直接使用預設密碼或下方「一鍵快速示範身分」登入！');
+}
+
+function handleLogin(e) {
+  e.preventDefault();
+  const username = document.getElementById('username').value.trim();
+  const password = document.getElementById('password').value.trim();
+  const btn = document.getElementById('btnSubmit');
+  const btnText = document.getElementById('btnText');
+
+  if (!username || !password) {
+    showAlert('請輸入帳號與密碼！', 'error');
+    return;
+  }
+
+  // Visual loading feedback
+  btn.classList.add('loading');
+  btnText.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> 驗證身分中...';
+
+  setTimeout(() => {
+    // Determine user role
+    let roleName = '數據分析專員';
+    if (username.includes('admin')) roleName = '超級管理員';
+    else if (username.includes('analyst')) roleName = '資深收益分析師';
+    else if (username.includes('gm') || username.includes('manager')) roleName = '飯店總經理';
+    else if (username.includes('41211232')) roleName = '主要研究員 (41211232)';
+
+    // Save session
+    const userData = {
+      username: username,
+      role: roleName,
+      loginTime: new Date().toLocaleString('zh-TW'),
+      avatarSeed: username
+    };
+    localStorage.setItem('asia_hotel_auth_user', JSON.stringify(userData));
+
+    showAlert(`驗證成功！歡迎 ${roleName}，正在載入視覺化平台...`, 'success');
+    btnText.innerHTML = '<i class="fa-solid fa-check"></i> 驗證通過';
+
+    setTimeout(() => {
+      window.location.href = 'index.html';
+    }, 800);
+  }, 600);
+}
+</script>
+</body>
+</html>

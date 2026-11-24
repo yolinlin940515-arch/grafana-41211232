@@ -374,6 +374,11 @@ body {
     <span class="badge badge-green">🌏 11 亞洲國家</span>
     <span class="badge badge-yellow">🏢 165 間真實名冊飯店</span>
     <span class="badge badge-purple">🤖 AI 外部真實評論系統</span>
+    <div id="userProfileArea" style="margin-left:8px;">
+      <a href="login.html" style="text-decoration:none;display:inline-flex;align-items:center;gap:6px;background:rgba(59,130,246,0.2);border:1px solid rgba(59,130,246,0.4);color:#38bdf8;padding:6px 14px;border-radius:20px;font-size:12px;font-weight:600;">
+        👤 <span>使用者登入</span>
+      </a>
+    </div>
   </div>
 </header>
 
@@ -1520,6 +1525,18 @@ document.getElementById('hotelModal').addEventListener('click', e => { if (e.tar
     renderHoliday();
     renderReviews();
     renderDirectory();
+    // Auth user status in header
+    const authUser = JSON.parse(localStorage.getItem('asia_hotel_auth_user') || 'null');
+    const uArea = document.getElementById('userProfileArea');
+    if (authUser && uArea) {
+      uArea.innerHTML = `
+        <div style="display:flex;align-items:center;gap:8px;background:rgba(15,23,42,0.85);border:1px solid rgba(56,189,248,0.3);padding:4px 12px;border-radius:30px;">
+          <span style="width:8px;height:8px;border-radius:50%;background:#10b981;box-shadow:0 0 8px #10b981;"></span>
+          <span style="font-size:12px;color:#f1f5f9;font-weight:500;">${authUser.role}</span>
+          <a href="login.html?logout=1" onclick="localStorage.removeItem('asia_hotel_auth_user')" style="font-size:11px;color:#f43f5e;text-decoration:none;margin-left:6px;padding:2px 8px;border-radius:12px;background:rgba(244,63,94,0.15);border:1px solid rgba(244,63,94,0.3);">登出</a>
+        </div>
+      `;
+    }
     document.getElementById('loadingOverlay').classList.add('hidden');
   } catch(e) {
     console.error(e);
