@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>亞洲旅館營運分析與真實評論過濾系統 | 2026年10月</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<script src="data/all_data.js"></script>
 <style>
 :root {
   --bg-primary: #0b0e17;
@@ -712,6 +713,12 @@ Chart.defaults.font.family = "'Segoe UI', -apple-system, sans-serif";
 
 // ===== Load Data =====
 async function loadData() {
+  // 優先使用本地內建數據物件 (支援直接雙擊開啟 file:// 協定，徹底免疫 CORS 限制)
+  if (window.ASIAN_HOTEL_DATA) {
+    DATA = window.ASIAN_HOTEL_DATA;
+    return;
+  }
+  // 備援方案：若透過 HTTP 伺服器且未載入 js，則透過 fetch 取得
   const files = ['overview', 'cost_analysis', 'facility_analysis', 'location_analysis', 'holiday_analysis', 'hotel_directory', 'country_daily', 'reviews_analysis'];
   const promises = files.map(f => fetch(`data/${f}.json`).then(r => r.json()));
   const results = await Promise.all(promises);
